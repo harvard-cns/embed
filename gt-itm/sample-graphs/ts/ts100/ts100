@@ -1,0 +1,9 @@
+# <method keyword> <number of graphs> [<initial seed>]
+# <# stubs/trans node> <#rand. t-s edges> <#rand. s-s edges>
+# <n> <scale> <edgemethod> <alpha> [<beta>] [<gamma>]
+# number of nodes = 1x4x(1+3x8) = 100
+ts 10 47
+3 0 0
+1 20 3 0.5 1.0 
+4 20 3 0.6 1.0
+8 10 3 0.42 1.0

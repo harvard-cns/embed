@@ -1,0 +1,5 @@
+# <method keyword> <number of graphs> [<initial seed>]
+# <n> <scale> <edgemethod> <alpha> [<beta>] [<gamma>]
+geo 10 
+100 100 3 .033
+

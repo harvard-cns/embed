@@ -1,0 +1,4203 @@
+split 0.500000, link1.000000 topo_gen 1.000000
+./itm spec/itm-spec0
+./itm spec/itm-spec1
+./itm spec/itm-spec2
+./itm spec/itm-spec3
+./itm spec/itm-spec4
+./itm spec/itm-spec5
+./itm spec/itm-spec6
+./itm spec/itm-spec7
+./itm spec/itm-spec8
+./itm spec/itm-spec9
+./itm spec/itm-spec10
+./itm spec/itm-spec11
+./itm spec/itm-spec12
+./itm spec/itm-spec13
+./itm spec/itm-spec14
+./itm spec/itm-spec15
+./itm spec/itm-spec16
+./itm spec/itm-spec17
+./itm spec/itm-spec18
+./itm spec/itm-spec19
+./itm spec/itm-spec20
+./itm spec/itm-spec21
+./itm spec/itm-spec22
+./itm spec/itm-spec23
+./itm spec/itm-spec24
+./itm spec/itm-spec25
+./itm spec/itm-spec26
+./itm spec/itm-spec27
+./itm spec/itm-spec28
+./itm spec/itm-spec29
+./itm spec/itm-spec30
+./itm spec/itm-spec31
+./itm spec/itm-spec32
+./itm spec/itm-spec33
+./itm spec/itm-spec34
+./itm spec/itm-spec35
+./itm spec/itm-spec36
+./itm spec/itm-spec37
+./itm spec/itm-spec38
+./itm spec/itm-spec39
+./itm spec/itm-spec40
+./itm spec/itm-spec41
+./itm spec/itm-spec42
+./itm spec/itm-spec43
+./itm spec/itm-spec44
+./itm spec/itm-spec45
+./itm spec/itm-spec46
+./itm spec/itm-spec47
+./itm spec/itm-spec48
+./itm spec/itm-spec49
+./itm spec/itm-spec50
+./itm spec/itm-spec51
+./itm spec/itm-spec52
+./itm spec/itm-spec53
+./itm spec/itm-spec54
+./itm spec/itm-spec55
+./itm spec/itm-spec56
+./itm spec/itm-spec57
+./itm spec/itm-spec58
+./itm spec/itm-spec59
+./itm spec/itm-spec60
+./itm spec/itm-spec61
+./itm spec/itm-spec62
+./itm spec/itm-spec63
+./itm spec/itm-spec64
+./itm spec/itm-spec65
+./itm spec/itm-spec66
+./itm spec/itm-spec67
+./itm spec/itm-spec68
+./itm spec/itm-spec69
+./itm spec/itm-spec70
+./itm spec/itm-spec71
+./itm spec/itm-spec72
+./itm spec/itm-spec73
+./itm spec/itm-spec74
+./itm spec/itm-spec75
+./itm spec/itm-spec76
+./itm spec/itm-spec77
+./itm spec/itm-spec78
+./itm spec/itm-spec79
+./itm spec/itm-spec80
+./itm spec/itm-spec81
+./itm spec/itm-spec82
+./itm spec/itm-spec83
+./itm spec/itm-spec84
+./itm spec/itm-spec85
+./itm spec/itm-spec86
+./itm spec/itm-spec87
+./itm spec/itm-spec88
+./itm spec/itm-spec89
+./itm spec/itm-spec90
+./itm spec/itm-spec91
+./itm spec/itm-spec92
+./itm spec/itm-spec93
+./itm spec/itm-spec94
+./itm spec/itm-spec95
+./itm spec/itm-spec96
+./itm spec/itm-spec97
+./itm spec/itm-spec98
+./itm spec/itm-spec99
+./itm spec/itm-spec100
+./itm spec/itm-spec101
+./itm spec/itm-spec102
+./itm spec/itm-spec103
+./itm spec/itm-spec104
+./itm spec/itm-spec105
+./itm spec/itm-spec106
+./itm spec/itm-spec107
+./itm spec/itm-spec108
+./itm spec/itm-spec109
+./itm spec/itm-spec110
+./itm spec/itm-spec111
+./itm spec/itm-spec112
+./itm spec/itm-spec113
+./itm spec/itm-spec114
+./itm spec/itm-spec115
+./itm spec/itm-spec116
+./itm spec/itm-spec117
+./itm spec/itm-spec118
+./itm spec/itm-spec119
+./itm spec/itm-spec120
+./itm spec/itm-spec121
+./itm spec/itm-spec122
+./itm spec/itm-spec123
+./itm spec/itm-spec124
+./itm spec/itm-spec125
+./itm spec/itm-spec126
+./itm spec/itm-spec127
+./itm spec/itm-spec128
+./itm spec/itm-spec129
+./itm spec/itm-spec130
+./itm spec/itm-spec131
+./itm spec/itm-spec132
+./itm spec/itm-spec133
+./itm spec/itm-spec134
+./itm spec/itm-spec135
+./itm spec/itm-spec136
+./itm spec/itm-spec137
+./itm spec/itm-spec138
+./itm spec/itm-spec139
+./itm spec/itm-spec140
+./itm spec/itm-spec141
+./itm spec/itm-spec142
+./itm spec/itm-spec143
+./itm spec/itm-spec144
+./itm spec/itm-spec145
+./itm spec/itm-spec146
+./itm spec/itm-spec147
+./itm spec/itm-spec148
+./itm spec/itm-spec149
+./itm spec/itm-spec150
+./itm spec/itm-spec151
+./itm spec/itm-spec152
+./itm spec/itm-spec153
+./itm spec/itm-spec154
+./itm spec/itm-spec155
+./itm spec/itm-spec156
+./itm spec/itm-spec157
+./itm spec/itm-spec158
+./itm spec/itm-spec159
+./itm spec/itm-spec160
+./itm spec/itm-spec161
+./itm spec/itm-spec162
+./itm spec/itm-spec163
+./itm spec/itm-spec164
+./itm spec/itm-spec165
+./itm spec/itm-spec166
+./itm spec/itm-spec167
+./itm spec/itm-spec168
+./itm spec/itm-spec169
+./itm spec/itm-spec170
+./itm spec/itm-spec171
+./itm spec/itm-spec172
+./itm spec/itm-spec173
+./itm spec/itm-spec174
+./itm spec/itm-spec175
+./itm spec/itm-spec176
+./itm spec/itm-spec177
+./itm spec/itm-spec178
+./itm spec/itm-spec179
+./itm spec/itm-spec180
+./itm spec/itm-spec181
+./itm spec/itm-spec182
+./itm spec/itm-spec183
+./itm spec/itm-spec184
+./itm spec/itm-spec185
+./itm spec/itm-spec186
+./itm spec/itm-spec187
+./itm spec/itm-spec188
+./itm spec/itm-spec189
+./itm spec/itm-spec190
+./itm spec/itm-spec191
+./itm spec/itm-spec192
+./itm spec/itm-spec193
+./itm spec/itm-spec194
+./itm spec/itm-spec195
+./itm spec/itm-spec196
+./itm spec/itm-spec197
+./itm spec/itm-spec198
+./itm spec/itm-spec199
+./itm spec/itm-spec200
+./itm spec/itm-spec201
+./itm spec/itm-spec202
+./itm spec/itm-spec203
+./itm spec/itm-spec204
+./itm spec/itm-spec205
+./itm spec/itm-spec206
+./itm spec/itm-spec207
+./itm spec/itm-spec208
+./itm spec/itm-spec209
+./itm spec/itm-spec210
+./itm spec/itm-spec211
+./itm spec/itm-spec212
+./itm spec/itm-spec213
+./itm spec/itm-spec214
+./itm spec/itm-spec215
+./itm spec/itm-spec216
+./itm spec/itm-spec217
+./itm spec/itm-spec218
+./itm spec/itm-spec219
+./itm spec/itm-spec220
+./itm spec/itm-spec221
+./itm spec/itm-spec222
+./itm spec/itm-spec223
+./itm spec/itm-spec224
+./itm spec/itm-spec225
+./itm spec/itm-spec226
+./itm spec/itm-spec227
+./itm spec/itm-spec228
+./itm spec/itm-spec229
+./itm spec/itm-spec230
+./itm spec/itm-spec231
+./itm spec/itm-spec232
+./itm spec/itm-spec233
+./itm spec/itm-spec234
+./itm spec/itm-spec235
+./itm spec/itm-spec236
+./itm spec/itm-spec237
+./itm spec/itm-spec238
+./itm spec/itm-spec239
+./itm spec/itm-spec240
+./itm spec/itm-spec241
+./itm spec/itm-spec242
+./itm spec/itm-spec243
+./itm spec/itm-spec244
+./itm spec/itm-spec245
+./itm spec/itm-spec246
+./itm spec/itm-spec247
+./itm spec/itm-spec248
+./itm spec/itm-spec249
+./itm spec/itm-spec250
+./itm spec/itm-spec251
+./itm spec/itm-spec252
+./itm spec/itm-spec253
+./itm spec/itm-spec254
+./itm spec/itm-spec255
+./itm spec/itm-spec256
+./itm spec/itm-spec257
+./itm spec/itm-spec258
+./itm spec/itm-spec259
+./itm spec/itm-spec260
+./itm spec/itm-spec261
+./itm spec/itm-spec262
+./itm spec/itm-spec263
+./itm spec/itm-spec264
+./itm spec/itm-spec265
+./itm spec/itm-spec266
+./itm spec/itm-spec267
+./itm spec/itm-spec268
+./itm spec/itm-spec269
+./itm spec/itm-spec270
+./itm spec/itm-spec271
+./itm spec/itm-spec272
+./itm spec/itm-spec273
+./itm spec/itm-spec274
+./itm spec/itm-spec275
+./itm spec/itm-spec276
+./itm spec/itm-spec277
+./itm spec/itm-spec278
+./itm spec/itm-spec279
+./itm spec/itm-spec280
+./itm spec/itm-spec281
+./itm spec/itm-spec282
+./itm spec/itm-spec283
+./itm spec/itm-spec284
+./itm spec/itm-spec285
+./itm spec/itm-spec286
+./itm spec/itm-spec287
+./itm spec/itm-spec288
+./itm spec/itm-spec289
+./itm spec/itm-spec290
+./itm spec/itm-spec291
+./itm spec/itm-spec292
+./itm spec/itm-spec293
+./itm spec/itm-spec294
+./itm spec/itm-spec295
+./itm spec/itm-spec296
+./itm spec/itm-spec297
+./itm spec/itm-spec298
+./itm spec/itm-spec299
+./itm spec/itm-spec300
+./itm spec/itm-spec301
+./itm spec/itm-spec302
+./itm spec/itm-spec303
+./itm spec/itm-spec304
+./itm spec/itm-spec305
+./itm spec/itm-spec306
+./itm spec/itm-spec307
+./itm spec/itm-spec308
+./itm spec/itm-spec309
+./itm spec/itm-spec310
+./itm spec/itm-spec311
+./itm spec/itm-spec312
+./itm spec/itm-spec313
+./itm spec/itm-spec314
+./itm spec/itm-spec315
+./itm spec/itm-spec316
+./itm spec/itm-spec317
+./itm spec/itm-spec318
+./itm spec/itm-spec319
+./itm spec/itm-spec320
+./itm spec/itm-spec321
+./itm spec/itm-spec322
+./itm spec/itm-spec323
+./itm spec/itm-spec324
+./itm spec/itm-spec325
+./itm spec/itm-spec326
+./itm spec/itm-spec327
+./itm spec/itm-spec328
+./itm spec/itm-spec329
+./itm spec/itm-spec330
+./itm spec/itm-spec331
+./itm spec/itm-spec332
+./itm spec/itm-spec333
+./itm spec/itm-spec334
+./itm spec/itm-spec335
+./itm spec/itm-spec336
+./itm spec/itm-spec337
+./itm spec/itm-spec338
+./itm spec/itm-spec339
+./itm spec/itm-spec340
+./itm spec/itm-spec341
+./itm spec/itm-spec342
+./itm spec/itm-spec343
+./itm spec/itm-spec344
+./itm spec/itm-spec345
+./itm spec/itm-spec346
+./itm spec/itm-spec347
+./itm spec/itm-spec348
+./itm spec/itm-spec349
+./itm spec/itm-spec350
+./itm spec/itm-spec351
+./itm spec/itm-spec352
+./itm spec/itm-spec353
+./itm spec/itm-spec354
+./itm spec/itm-spec355
+./itm spec/itm-spec356
+./itm spec/itm-spec357
+./itm spec/itm-spec358
+./itm spec/itm-spec359
+./itm spec/itm-spec360
+./itm spec/itm-spec361
+./itm spec/itm-spec362
+./itm spec/itm-spec363
+./itm spec/itm-spec364
+./itm spec/itm-spec365
+./itm spec/itm-spec366
+./itm spec/itm-spec367
+./itm spec/itm-spec368
+./itm spec/itm-spec369
+./itm spec/itm-spec370
+./itm spec/itm-spec371
+./itm spec/itm-spec372
+./itm spec/itm-spec373
+./itm spec/itm-spec374
+./itm spec/itm-spec375
+./itm spec/itm-spec376
+./itm spec/itm-spec377
+./itm spec/itm-spec378
+./itm spec/itm-spec379
+./itm spec/itm-spec380
+./itm spec/itm-spec381
+./itm spec/itm-spec382
+./itm spec/itm-spec383
+./itm spec/itm-spec384
+./itm spec/itm-spec385
+./itm spec/itm-spec386
+./itm spec/itm-spec387
+./itm spec/itm-spec388
+./itm spec/itm-spec389
+./itm spec/itm-spec390
+./itm spec/itm-spec391
+./itm spec/itm-spec392
+./itm spec/itm-spec393
+./itm spec/itm-spec394
+./itm spec/itm-spec395
+./itm spec/itm-spec396
+./itm spec/itm-spec397
+./itm spec/itm-spec398
+./itm spec/itm-spec399
+./itm spec/itm-spec400
+./itm spec/itm-spec401
+./itm spec/itm-spec402
+./itm spec/itm-spec403
+./itm spec/itm-spec404
+./itm spec/itm-spec405
+./itm spec/itm-spec406
+./itm spec/itm-spec407
+./itm spec/itm-spec408
+./itm spec/itm-spec409
+./itm spec/itm-spec410
+./itm spec/itm-spec411
+./itm spec/itm-spec412
+./itm spec/itm-spec413
+./itm spec/itm-spec414
+./itm spec/itm-spec415
+./itm spec/itm-spec416
+./itm spec/itm-spec417
+./itm spec/itm-spec418
+./itm spec/itm-spec419
+./itm spec/itm-spec420
+./itm spec/itm-spec421
+./itm spec/itm-spec422
+./itm spec/itm-spec423
+./itm spec/itm-spec424
+./itm spec/itm-spec425
+./itm spec/itm-spec426
+./itm spec/itm-spec427
+./itm spec/itm-spec428
+./itm spec/itm-spec429
+./itm spec/itm-spec430
+./itm spec/itm-spec431
+./itm spec/itm-spec432
+./itm spec/itm-spec433
+./itm spec/itm-spec434
+./itm spec/itm-spec435
+./itm spec/itm-spec436
+./itm spec/itm-spec437
+./itm spec/itm-spec438
+./itm spec/itm-spec439
+./itm spec/itm-spec440
+./itm spec/itm-spec441
+./itm spec/itm-spec442
+./itm spec/itm-spec443
+./itm spec/itm-spec444
+./itm spec/itm-spec445
+./itm spec/itm-spec446
+./itm spec/itm-spec447
+./itm spec/itm-spec448
+./itm spec/itm-spec449
+./itm spec/itm-spec450
+./itm spec/itm-spec451
+./itm spec/itm-spec452
+./itm spec/itm-spec453
+./itm spec/itm-spec454
+./itm spec/itm-spec455
+./itm spec/itm-spec456
+./itm spec/itm-spec457
+./itm spec/itm-spec458
+./itm spec/itm-spec459
+./itm spec/itm-spec460
+./itm spec/itm-spec461
+./itm spec/itm-spec462
+./itm spec/itm-spec463
+./itm spec/itm-spec464
+./itm spec/itm-spec465
+./itm spec/itm-spec466
+./itm spec/itm-spec467
+./itm spec/itm-spec468
+./itm spec/itm-spec469
+./itm spec/itm-spec470
+./itm spec/itm-spec471
+./itm spec/itm-spec472
+./itm spec/itm-spec473
+./itm spec/itm-spec474
+./itm spec/itm-spec475
+./itm spec/itm-spec476
+./itm spec/itm-spec477
+./itm spec/itm-spec478
+./itm spec/itm-spec479
+./itm spec/itm-spec480
+./itm spec/itm-spec481
+./itm spec/itm-spec482
+./itm spec/itm-spec483
+./itm spec/itm-spec484
+./itm spec/itm-spec485
+./itm spec/itm-spec486
+./itm spec/itm-spec487
+./itm spec/itm-spec488
+./itm spec/itm-spec489
+./itm spec/itm-spec490
+./itm spec/itm-spec491
+./itm spec/itm-spec492
+./itm spec/itm-spec493
+./itm spec/itm-spec494
+./itm spec/itm-spec495
+./itm spec/itm-spec496
+./itm spec/itm-spec497
+./itm spec/itm-spec498
+./itm spec/itm-spec499
+./itm spec/itm-spec500
+./itm spec/itm-spec501
+./itm spec/itm-spec502
+./itm spec/itm-spec503
+./itm spec/itm-spec504
+./itm spec/itm-spec505
+./itm spec/itm-spec506
+./itm spec/itm-spec507
+./itm spec/itm-spec508
+./itm spec/itm-spec509
+./itm spec/itm-spec510
+./itm spec/itm-spec511
+./itm spec/itm-spec512
+./itm spec/itm-spec513
+./itm spec/itm-spec514
+./itm spec/itm-spec515
+./itm spec/itm-spec516
+./itm spec/itm-spec517
+./itm spec/itm-spec518
+./itm spec/itm-spec519
+./itm spec/itm-spec520
+./itm spec/itm-spec521
+./itm spec/itm-spec522
+./itm spec/itm-spec523
+./itm spec/itm-spec524
+./itm spec/itm-spec525
+./itm spec/itm-spec526
+./itm spec/itm-spec527
+./itm spec/itm-spec528
+./itm spec/itm-spec529
+./itm spec/itm-spec530
+./itm spec/itm-spec531
+./itm spec/itm-spec532
+./itm spec/itm-spec533
+./itm spec/itm-spec534
+./itm spec/itm-spec535
+./itm spec/itm-spec536
+./itm spec/itm-spec537
+./itm spec/itm-spec538
+./itm spec/itm-spec539
+./itm spec/itm-spec540
+./itm spec/itm-spec541
+./itm spec/itm-spec542
+./itm spec/itm-spec543
+./itm spec/itm-spec544
+./itm spec/itm-spec545
+./itm spec/itm-spec546
+./itm spec/itm-spec547
+./itm spec/itm-spec548
+./itm spec/itm-spec549
+./itm spec/itm-spec550
+./itm spec/itm-spec551
+./itm spec/itm-spec552
+./itm spec/itm-spec553
+./itm spec/itm-spec554
+./itm spec/itm-spec555
+./itm spec/itm-spec556
+./itm spec/itm-spec557
+./itm spec/itm-spec558
+./itm spec/itm-spec559
+./itm spec/itm-spec560
+./itm spec/itm-spec561
+./itm spec/itm-spec562
+./itm spec/itm-spec563
+./itm spec/itm-spec564
+./itm spec/itm-spec565
+./itm spec/itm-spec566
+./itm spec/itm-spec567
+./itm spec/itm-spec568
+./itm spec/itm-spec569
+./itm spec/itm-spec570
+./itm spec/itm-spec571
+./itm spec/itm-spec572
+./itm spec/itm-spec573
+./itm spec/itm-spec574
+./itm spec/itm-spec575
+./itm spec/itm-spec576
+./itm spec/itm-spec577
+./itm spec/itm-spec578
+./itm spec/itm-spec579
+./itm spec/itm-spec580
+./itm spec/itm-spec581
+./itm spec/itm-spec582
+./itm spec/itm-spec583
+./itm spec/itm-spec584
+./itm spec/itm-spec585
+./itm spec/itm-spec586
+./itm spec/itm-spec587
+./itm spec/itm-spec588
+./itm spec/itm-spec589
+./itm spec/itm-spec590
+./itm spec/itm-spec591
+./itm spec/itm-spec592
+./itm spec/itm-spec593
+./itm spec/itm-spec594
+./itm spec/itm-spec595
+./itm spec/itm-spec596
+./itm spec/itm-spec597
+./itm spec/itm-spec598
+./itm spec/itm-spec599
+./itm spec/itm-spec600
+./itm spec/itm-spec601
+./itm spec/itm-spec602
+./itm spec/itm-spec603
+./itm spec/itm-spec604
+./itm spec/itm-spec605
+./itm spec/itm-spec606
+./itm spec/itm-spec607
+./itm spec/itm-spec608
+./itm spec/itm-spec609
+./itm spec/itm-spec610
+./itm spec/itm-spec611
+./itm spec/itm-spec612
+./itm spec/itm-spec613
+./itm spec/itm-spec614
+./itm spec/itm-spec615
+./itm spec/itm-spec616
+./itm spec/itm-spec617
+./itm spec/itm-spec618
+./itm spec/itm-spec619
+./itm spec/itm-spec620
+./itm spec/itm-spec621
+./itm spec/itm-spec622
+./itm spec/itm-spec623
+./itm spec/itm-spec624
+./itm spec/itm-spec625
+./itm spec/itm-spec626
+./itm spec/itm-spec627
+./itm spec/itm-spec628
+./itm spec/itm-spec629
+./itm spec/itm-spec630
+./itm spec/itm-spec631
+./itm spec/itm-spec632
+./itm spec/itm-spec633
+./itm spec/itm-spec634
+./itm spec/itm-spec635
+./itm spec/itm-spec636
+./itm spec/itm-spec637
+./itm spec/itm-spec638
+./itm spec/itm-spec639
+./itm spec/itm-spec640
+./itm spec/itm-spec641
+./itm spec/itm-spec642
+./itm spec/itm-spec643
+./itm spec/itm-spec644
+./itm spec/itm-spec645
+./itm spec/itm-spec646
+./itm spec/itm-spec647
+./itm spec/itm-spec648
+./itm spec/itm-spec649
+./itm spec/itm-spec650
+./itm spec/itm-spec651
+./itm spec/itm-spec652
+./itm spec/itm-spec653
+./itm spec/itm-spec654
+./itm spec/itm-spec655
+./itm spec/itm-spec656
+./itm spec/itm-spec657
+./itm spec/itm-spec658
+./itm spec/itm-spec659
+./itm spec/itm-spec660
+./itm spec/itm-spec661
+./itm spec/itm-spec662
+./itm spec/itm-spec663
+./itm spec/itm-spec664
+./itm spec/itm-spec665
+./itm spec/itm-spec666
+./itm spec/itm-spec667
+./itm spec/itm-spec668
+./itm spec/itm-spec669
+./itm spec/itm-spec670
+./itm spec/itm-spec671
+./itm spec/itm-spec672
+./itm spec/itm-spec673
+./itm spec/itm-spec674
+./itm spec/itm-spec675
+./itm spec/itm-spec676
+./itm spec/itm-spec677
+./itm spec/itm-spec678
+./itm spec/itm-spec679
+./itm spec/itm-spec680
+./itm spec/itm-spec681
+./itm spec/itm-spec682
+./itm spec/itm-spec683
+./itm spec/itm-spec684
+./itm spec/itm-spec685
+./itm spec/itm-spec686
+./itm spec/itm-spec687
+./itm spec/itm-spec688
+./itm spec/itm-spec689
+./itm spec/itm-spec690
+./itm spec/itm-spec691
+./itm spec/itm-spec692
+./itm spec/itm-spec693
+./itm spec/itm-spec694
+./itm spec/itm-spec695
+./itm spec/itm-spec696
+./itm spec/itm-spec697
+./itm spec/itm-spec698
+./itm spec/itm-spec699
+./itm spec/itm-spec700
+./itm spec/itm-spec701
+./itm spec/itm-spec702
+./itm spec/itm-spec703
+./itm spec/itm-spec704
+./itm spec/itm-spec705
+./itm spec/itm-spec706
+./itm spec/itm-spec707
+./itm spec/itm-spec708
+./itm spec/itm-spec709
+./itm spec/itm-spec710
+./itm spec/itm-spec711
+./itm spec/itm-spec712
+./itm spec/itm-spec713
+./itm spec/itm-spec714
+./itm spec/itm-spec715
+./itm spec/itm-spec716
+./itm spec/itm-spec717
+./itm spec/itm-spec718
+./itm spec/itm-spec719
+./itm spec/itm-spec720
+./itm spec/itm-spec721
+./itm spec/itm-spec722
+./itm spec/itm-spec723
+./itm spec/itm-spec724
+./itm spec/itm-spec725
+./itm spec/itm-spec726
+./itm spec/itm-spec727
+./itm spec/itm-spec728
+./itm spec/itm-spec729
+./itm spec/itm-spec730
+./itm spec/itm-spec731
+./itm spec/itm-spec732
+./itm spec/itm-spec733
+./itm spec/itm-spec734
+./itm spec/itm-spec735
+./itm spec/itm-spec736
+./itm spec/itm-spec737
+./itm spec/itm-spec738
+./itm spec/itm-spec739
+./itm spec/itm-spec740
+./itm spec/itm-spec741
+./itm spec/itm-spec742
+./itm spec/itm-spec743
+./itm spec/itm-spec744
+./itm spec/itm-spec745
+./itm spec/itm-spec746
+./itm spec/itm-spec747
+./itm spec/itm-spec748
+./itm spec/itm-spec749
+./itm spec/itm-spec750
+./itm spec/itm-spec751
+./itm spec/itm-spec752
+./itm spec/itm-spec753
+./itm spec/itm-spec754
+./itm spec/itm-spec755
+./itm spec/itm-spec756
+./itm spec/itm-spec757
+./itm spec/itm-spec758
+./itm spec/itm-spec759
+./itm spec/itm-spec760
+./itm spec/itm-spec761
+./itm spec/itm-spec762
+./itm spec/itm-spec763
+./itm spec/itm-spec764
+./itm spec/itm-spec765
+./itm spec/itm-spec766
+./itm spec/itm-spec767
+./itm spec/itm-spec768
+./itm spec/itm-spec769
+./itm spec/itm-spec770
+./itm spec/itm-spec771
+./itm spec/itm-spec772
+./itm spec/itm-spec773
+./itm spec/itm-spec774
+./itm spec/itm-spec775
+./itm spec/itm-spec776
+./itm spec/itm-spec777
+./itm spec/itm-spec778
+./itm spec/itm-spec779
+./itm spec/itm-spec780
+./itm spec/itm-spec781
+./itm spec/itm-spec782
+./itm spec/itm-spec783
+./itm spec/itm-spec784
+./itm spec/itm-spec785
+./itm spec/itm-spec786
+./itm spec/itm-spec787
+./itm spec/itm-spec788
+./itm spec/itm-spec789
+./itm spec/itm-spec790
+./itm spec/itm-spec791
+./itm spec/itm-spec792
+./itm spec/itm-spec793
+./itm spec/itm-spec794
+./itm spec/itm-spec795
+./itm spec/itm-spec796
+./itm spec/itm-spec797
+./itm spec/itm-spec798
+./itm spec/itm-spec799
+./itm spec/itm-spec800
+./itm spec/itm-spec801
+./itm spec/itm-spec802
+./itm spec/itm-spec803
+./itm spec/itm-spec804
+./itm spec/itm-spec805
+./itm spec/itm-spec806
+./itm spec/itm-spec807
+./itm spec/itm-spec808
+./itm spec/itm-spec809
+./itm spec/itm-spec810
+./itm spec/itm-spec811
+./itm spec/itm-spec812
+./itm spec/itm-spec813
+./itm spec/itm-spec814
+./itm spec/itm-spec815
+./itm spec/itm-spec816
+./itm spec/itm-spec817
+./itm spec/itm-spec818
+./itm spec/itm-spec819
+./itm spec/itm-spec820
+./itm spec/itm-spec821
+./itm spec/itm-spec822
+./itm spec/itm-spec823
+./itm spec/itm-spec824
+./itm spec/itm-spec825
+./itm spec/itm-spec826
+./itm spec/itm-spec827
+./itm spec/itm-spec828
+./itm spec/itm-spec829
+./itm spec/itm-spec830
+./itm spec/itm-spec831
+./itm spec/itm-spec832
+./itm spec/itm-spec833
+./itm spec/itm-spec834
+./itm spec/itm-spec835
+./itm spec/itm-spec836
+./itm spec/itm-spec837
+./itm spec/itm-spec838
+./itm spec/itm-spec839
+./itm spec/itm-spec840
+./itm spec/itm-spec841
+./itm spec/itm-spec842
+./itm spec/itm-spec843
+./itm spec/itm-spec844
+./itm spec/itm-spec845
+./itm spec/itm-spec846
+./itm spec/itm-spec847
+./itm spec/itm-spec848
+./itm spec/itm-spec849
+./itm spec/itm-spec850
+./itm spec/itm-spec851
+./itm spec/itm-spec852
+./itm spec/itm-spec853
+./itm spec/itm-spec854
+./itm spec/itm-spec855
+./itm spec/itm-spec856
+./itm spec/itm-spec857
+./itm spec/itm-spec858
+./itm spec/itm-spec859
+./itm spec/itm-spec860
+./itm spec/itm-spec861
+./itm spec/itm-spec862
+./itm spec/itm-spec863
+./itm spec/itm-spec864
+./itm spec/itm-spec865
+./itm spec/itm-spec866
+./itm spec/itm-spec867
+./itm spec/itm-spec868
+./itm spec/itm-spec869
+./itm spec/itm-spec870
+./itm spec/itm-spec871
+./itm spec/itm-spec872
+./itm spec/itm-spec873
+./itm spec/itm-spec874
+./itm spec/itm-spec875
+./itm spec/itm-spec876
+./itm spec/itm-spec877
+./itm spec/itm-spec878
+./itm spec/itm-spec879
+./itm spec/itm-spec880
+./itm spec/itm-spec881
+./itm spec/itm-spec882
+./itm spec/itm-spec883
+./itm spec/itm-spec884
+./itm spec/itm-spec885
+./itm spec/itm-spec886
+./itm spec/itm-spec887
+./itm spec/itm-spec888
+./itm spec/itm-spec889
+./itm spec/itm-spec890
+./itm spec/itm-spec891
+./itm spec/itm-spec892
+./itm spec/itm-spec893
+./itm spec/itm-spec894
+./itm spec/itm-spec895
+./itm spec/itm-spec896
+./itm spec/itm-spec897
+./itm spec/itm-spec898
+./itm spec/itm-spec899
+./itm spec/itm-spec900
+./itm spec/itm-spec901
+./itm spec/itm-spec902
+./itm spec/itm-spec903
+./itm spec/itm-spec904
+./itm spec/itm-spec905
+./itm spec/itm-spec906
+./itm spec/itm-spec907
+./itm spec/itm-spec908
+./itm spec/itm-spec909
+./itm spec/itm-spec910
+./itm spec/itm-spec911
+./itm spec/itm-spec912
+./itm spec/itm-spec913
+./itm spec/itm-spec914
+./itm spec/itm-spec915
+./itm spec/itm-spec916
+./itm spec/itm-spec917
+./itm spec/itm-spec918
+./itm spec/itm-spec919
+./itm spec/itm-spec920
+./itm spec/itm-spec921
+./itm spec/itm-spec922
+./itm spec/itm-spec923
+./itm spec/itm-spec924
+./itm spec/itm-spec925
+./itm spec/itm-spec926
+./itm spec/itm-spec927
+./itm spec/itm-spec928
+./itm spec/itm-spec929
+./itm spec/itm-spec930
+./itm spec/itm-spec931
+./itm spec/itm-spec932
+./itm spec/itm-spec933
+./itm spec/itm-spec934
+./itm spec/itm-spec935
+./itm spec/itm-spec936
+./itm spec/itm-spec937
+./itm spec/itm-spec938
+./itm spec/itm-spec939
+./itm spec/itm-spec940
+./itm spec/itm-spec941
+./itm spec/itm-spec942
+./itm spec/itm-spec943
+./itm spec/itm-spec944
+./itm spec/itm-spec945
+./itm spec/itm-spec946
+./itm spec/itm-spec947
+./itm spec/itm-spec948
+./itm spec/itm-spec949
+./itm spec/itm-spec950
+./itm spec/itm-spec951
+./itm spec/itm-spec952
+./itm spec/itm-spec953
+./itm spec/itm-spec954
+./itm spec/itm-spec955
+./itm spec/itm-spec956
+./itm spec/itm-spec957
+./itm spec/itm-spec958
+./itm spec/itm-spec959
+./itm spec/itm-spec960
+./itm spec/itm-spec961
+./itm spec/itm-spec962
+./itm spec/itm-spec963
+./itm spec/itm-spec964
+./itm spec/itm-spec965
+./itm spec/itm-spec966
+./itm spec/itm-spec967
+./itm spec/itm-spec968
+./itm spec/itm-spec969
+./itm spec/itm-spec970
+./itm spec/itm-spec971
+./itm spec/itm-spec972
+./itm spec/itm-spec973
+./itm spec/itm-spec974
+./itm spec/itm-spec975
+./itm spec/itm-spec976
+./itm spec/itm-spec977
+./itm spec/itm-spec978
+./itm spec/itm-spec979
+./itm spec/itm-spec980
+./itm spec/itm-spec981
+./itm spec/itm-spec982
+./itm spec/itm-spec983
+./itm spec/itm-spec984
+./itm spec/itm-spec985
+./itm spec/itm-spec986
+./itm spec/itm-spec987
+./itm spec/itm-spec988
+./itm spec/itm-spec989
+./itm spec/itm-spec990
+./itm spec/itm-spec991
+./itm spec/itm-spec992
+./itm spec/itm-spec993
+./itm spec/itm-spec994
+./itm spec/itm-spec995
+./itm spec/itm-spec996
+./itm spec/itm-spec997
+./itm spec/itm-spec998
+./itm spec/itm-spec999
+./sgb2alt spec/itm-spec0-0.gb alt/0.alt
+./sgb2alt spec/itm-spec1-0.gb alt/1.alt
+./sgb2alt spec/itm-spec2-0.gb alt/2.alt
+./sgb2alt spec/itm-spec3-0.gb alt/3.alt
+./sgb2alt spec/itm-spec4-0.gb alt/4.alt
+./sgb2alt spec/itm-spec5-0.gb alt/5.alt
+./sgb2alt spec/itm-spec6-0.gb alt/6.alt
+./sgb2alt spec/itm-spec7-0.gb alt/7.alt
+./sgb2alt spec/itm-spec8-0.gb alt/8.alt
+./sgb2alt spec/itm-spec9-0.gb alt/9.alt
+./sgb2alt spec/itm-spec10-0.gb alt/10.alt
+./sgb2alt spec/itm-spec11-0.gb alt/11.alt
+./sgb2alt spec/itm-spec12-0.gb alt/12.alt
+./sgb2alt spec/itm-spec13-0.gb alt/13.alt
+./sgb2alt spec/itm-spec14-0.gb alt/14.alt
+./sgb2alt spec/itm-spec15-0.gb alt/15.alt
+./sgb2alt spec/itm-spec16-0.gb alt/16.alt
+./sgb2alt spec/itm-spec17-0.gb alt/17.alt
+./sgb2alt spec/itm-spec18-0.gb alt/18.alt
+./sgb2alt spec/itm-spec19-0.gb alt/19.alt
+./sgb2alt spec/itm-spec20-0.gb alt/20.alt
+./sgb2alt spec/itm-spec21-0.gb alt/21.alt
+./sgb2alt spec/itm-spec22-0.gb alt/22.alt
+./sgb2alt spec/itm-spec23-0.gb alt/23.alt
+./sgb2alt spec/itm-spec24-0.gb alt/24.alt
+./sgb2alt spec/itm-spec25-0.gb alt/25.alt
+./sgb2alt spec/itm-spec26-0.gb alt/26.alt
+./sgb2alt spec/itm-spec27-0.gb alt/27.alt
+./sgb2alt spec/itm-spec28-0.gb alt/28.alt
+./sgb2alt spec/itm-spec29-0.gb alt/29.alt
+./sgb2alt spec/itm-spec30-0.gb alt/30.alt
+./sgb2alt spec/itm-spec31-0.gb alt/31.alt
+./sgb2alt spec/itm-spec32-0.gb alt/32.alt
+./sgb2alt spec/itm-spec33-0.gb alt/33.alt
+./sgb2alt spec/itm-spec34-0.gb alt/34.alt
+./sgb2alt spec/itm-spec35-0.gb alt/35.alt
+./sgb2alt spec/itm-spec36-0.gb alt/36.alt
+./sgb2alt spec/itm-spec37-0.gb alt/37.alt
+./sgb2alt spec/itm-spec38-0.gb alt/38.alt
+./sgb2alt spec/itm-spec39-0.gb alt/39.alt
+./sgb2alt spec/itm-spec40-0.gb alt/40.alt
+./sgb2alt spec/itm-spec41-0.gb alt/41.alt
+./sgb2alt spec/itm-spec42-0.gb alt/42.alt
+./sgb2alt spec/itm-spec43-0.gb alt/43.alt
+./sgb2alt spec/itm-spec44-0.gb alt/44.alt
+./sgb2alt spec/itm-spec45-0.gb alt/45.alt
+./sgb2alt spec/itm-spec46-0.gb alt/46.alt
+./sgb2alt spec/itm-spec47-0.gb alt/47.alt
+./sgb2alt spec/itm-spec48-0.gb alt/48.alt
+./sgb2alt spec/itm-spec49-0.gb alt/49.alt
+./sgb2alt spec/itm-spec50-0.gb alt/50.alt
+./sgb2alt spec/itm-spec51-0.gb alt/51.alt
+./sgb2alt spec/itm-spec52-0.gb alt/52.alt
+./sgb2alt spec/itm-spec53-0.gb alt/53.alt
+./sgb2alt spec/itm-spec54-0.gb alt/54.alt
+./sgb2alt spec/itm-spec55-0.gb alt/55.alt
+./sgb2alt spec/itm-spec56-0.gb alt/56.alt
+./sgb2alt spec/itm-spec57-0.gb alt/57.alt
+./sgb2alt spec/itm-spec58-0.gb alt/58.alt
+./sgb2alt spec/itm-spec59-0.gb alt/59.alt
+./sgb2alt spec/itm-spec60-0.gb alt/60.alt
+./sgb2alt spec/itm-spec61-0.gb alt/61.alt
+./sgb2alt spec/itm-spec62-0.gb alt/62.alt
+./sgb2alt spec/itm-spec63-0.gb alt/63.alt
+./sgb2alt spec/itm-spec64-0.gb alt/64.alt
+./sgb2alt spec/itm-spec65-0.gb alt/65.alt
+./sgb2alt spec/itm-spec66-0.gb alt/66.alt
+./sgb2alt spec/itm-spec67-0.gb alt/67.alt
+./sgb2alt spec/itm-spec68-0.gb alt/68.alt
+./sgb2alt spec/itm-spec69-0.gb alt/69.alt
+./sgb2alt spec/itm-spec70-0.gb alt/70.alt
+./sgb2alt spec/itm-spec71-0.gb alt/71.alt
+./sgb2alt spec/itm-spec72-0.gb alt/72.alt
+./sgb2alt spec/itm-spec73-0.gb alt/73.alt
+./sgb2alt spec/itm-spec74-0.gb alt/74.alt
+./sgb2alt spec/itm-spec75-0.gb alt/75.alt
+./sgb2alt spec/itm-spec76-0.gb alt/76.alt
+./sgb2alt spec/itm-spec77-0.gb alt/77.alt
+./sgb2alt spec/itm-spec78-0.gb alt/78.alt
+./sgb2alt spec/itm-spec79-0.gb alt/79.alt
+./sgb2alt spec/itm-spec80-0.gb alt/80.alt
+./sgb2alt spec/itm-spec81-0.gb alt/81.alt
+./sgb2alt spec/itm-spec82-0.gb alt/82.alt
+./sgb2alt spec/itm-spec83-0.gb alt/83.alt
+./sgb2alt spec/itm-spec84-0.gb alt/84.alt
+./sgb2alt spec/itm-spec85-0.gb alt/85.alt
+./sgb2alt spec/itm-spec86-0.gb alt/86.alt
+./sgb2alt spec/itm-spec87-0.gb alt/87.alt
+./sgb2alt spec/itm-spec88-0.gb alt/88.alt
+./sgb2alt spec/itm-spec89-0.gb alt/89.alt
+./sgb2alt spec/itm-spec90-0.gb alt/90.alt
+./sgb2alt spec/itm-spec91-0.gb alt/91.alt
+./sgb2alt spec/itm-spec92-0.gb alt/92.alt
+./sgb2alt spec/itm-spec93-0.gb alt/93.alt
+./sgb2alt spec/itm-spec94-0.gb alt/94.alt
+./sgb2alt spec/itm-spec95-0.gb alt/95.alt
+./sgb2alt spec/itm-spec96-0.gb alt/96.alt
+./sgb2alt spec/itm-spec97-0.gb alt/97.alt
+./sgb2alt spec/itm-spec98-0.gb alt/98.alt
+./sgb2alt spec/itm-spec99-0.gb alt/99.alt
+./sgb2alt spec/itm-spec100-0.gb alt/100.alt
+./sgb2alt spec/itm-spec101-0.gb alt/101.alt
+./sgb2alt spec/itm-spec102-0.gb alt/102.alt
+./sgb2alt spec/itm-spec103-0.gb alt/103.alt
+./sgb2alt spec/itm-spec104-0.gb alt/104.alt
+./sgb2alt spec/itm-spec105-0.gb alt/105.alt
+./sgb2alt spec/itm-spec106-0.gb alt/106.alt
+./sgb2alt spec/itm-spec107-0.gb alt/107.alt
+./sgb2alt spec/itm-spec108-0.gb alt/108.alt
+./sgb2alt spec/itm-spec109-0.gb alt/109.alt
+./sgb2alt spec/itm-spec110-0.gb alt/110.alt
+./sgb2alt spec/itm-spec111-0.gb alt/111.alt
+./sgb2alt spec/itm-spec112-0.gb alt/112.alt
+./sgb2alt spec/itm-spec113-0.gb alt/113.alt
+./sgb2alt spec/itm-spec114-0.gb alt/114.alt
+./sgb2alt spec/itm-spec115-0.gb alt/115.alt
+./sgb2alt spec/itm-spec116-0.gb alt/116.alt
+./sgb2alt spec/itm-spec117-0.gb alt/117.alt
+./sgb2alt spec/itm-spec118-0.gb alt/118.alt
+./sgb2alt spec/itm-spec119-0.gb alt/119.alt
+./sgb2alt spec/itm-spec120-0.gb alt/120.alt
+./sgb2alt spec/itm-spec121-0.gb alt/121.alt
+./sgb2alt spec/itm-spec122-0.gb alt/122.alt
+./sgb2alt spec/itm-spec123-0.gb alt/123.alt
+./sgb2alt spec/itm-spec124-0.gb alt/124.alt
+./sgb2alt spec/itm-spec125-0.gb alt/125.alt
+./sgb2alt spec/itm-spec126-0.gb alt/126.alt
+./sgb2alt spec/itm-spec127-0.gb alt/127.alt
+./sgb2alt spec/itm-spec128-0.gb alt/128.alt
+./sgb2alt spec/itm-spec129-0.gb alt/129.alt
+./sgb2alt spec/itm-spec130-0.gb alt/130.alt
+./sgb2alt spec/itm-spec131-0.gb alt/131.alt
+./sgb2alt spec/itm-spec132-0.gb alt/132.alt
+./sgb2alt spec/itm-spec133-0.gb alt/133.alt
+./sgb2alt spec/itm-spec134-0.gb alt/134.alt
+./sgb2alt spec/itm-spec135-0.gb alt/135.alt
+./sgb2alt spec/itm-spec136-0.gb alt/136.alt
+./sgb2alt spec/itm-spec137-0.gb alt/137.alt
+./sgb2alt spec/itm-spec138-0.gb alt/138.alt
+./sgb2alt spec/itm-spec139-0.gb alt/139.alt
+./sgb2alt spec/itm-spec140-0.gb alt/140.alt
+./sgb2alt spec/itm-spec141-0.gb alt/141.alt
+./sgb2alt spec/itm-spec142-0.gb alt/142.alt
+./sgb2alt spec/itm-spec143-0.gb alt/143.alt
+./sgb2alt spec/itm-spec144-0.gb alt/144.alt
+./sgb2alt spec/itm-spec145-0.gb alt/145.alt
+./sgb2alt spec/itm-spec146-0.gb alt/146.alt
+./sgb2alt spec/itm-spec147-0.gb alt/147.alt
+./sgb2alt spec/itm-spec148-0.gb alt/148.alt
+./sgb2alt spec/itm-spec149-0.gb alt/149.alt
+./sgb2alt spec/itm-spec150-0.gb alt/150.alt
+./sgb2alt spec/itm-spec151-0.gb alt/151.alt
+./sgb2alt spec/itm-spec152-0.gb alt/152.alt
+./sgb2alt spec/itm-spec153-0.gb alt/153.alt
+./sgb2alt spec/itm-spec154-0.gb alt/154.alt
+./sgb2alt spec/itm-spec155-0.gb alt/155.alt
+./sgb2alt spec/itm-spec156-0.gb alt/156.alt
+./sgb2alt spec/itm-spec157-0.gb alt/157.alt
+./sgb2alt spec/itm-spec158-0.gb alt/158.alt
+./sgb2alt spec/itm-spec159-0.gb alt/159.alt
+./sgb2alt spec/itm-spec160-0.gb alt/160.alt
+./sgb2alt spec/itm-spec161-0.gb alt/161.alt
+./sgb2alt spec/itm-spec162-0.gb alt/162.alt
+./sgb2alt spec/itm-spec163-0.gb alt/163.alt
+./sgb2alt spec/itm-spec164-0.gb alt/164.alt
+./sgb2alt spec/itm-spec165-0.gb alt/165.alt
+./sgb2alt spec/itm-spec166-0.gb alt/166.alt
+./sgb2alt spec/itm-spec167-0.gb alt/167.alt
+./sgb2alt spec/itm-spec168-0.gb alt/168.alt
+./sgb2alt spec/itm-spec169-0.gb alt/169.alt
+./sgb2alt spec/itm-spec170-0.gb alt/170.alt
+./sgb2alt spec/itm-spec171-0.gb alt/171.alt
+./sgb2alt spec/itm-spec172-0.gb alt/172.alt
+./sgb2alt spec/itm-spec173-0.gb alt/173.alt
+./sgb2alt spec/itm-spec174-0.gb alt/174.alt
+./sgb2alt spec/itm-spec175-0.gb alt/175.alt
+./sgb2alt spec/itm-spec176-0.gb alt/176.alt
+./sgb2alt spec/itm-spec177-0.gb alt/177.alt
+./sgb2alt spec/itm-spec178-0.gb alt/178.alt
+./sgb2alt spec/itm-spec179-0.gb alt/179.alt
+./sgb2alt spec/itm-spec180-0.gb alt/180.alt
+./sgb2alt spec/itm-spec181-0.gb alt/181.alt
+./sgb2alt spec/itm-spec182-0.gb alt/182.alt
+./sgb2alt spec/itm-spec183-0.gb alt/183.alt
+./sgb2alt spec/itm-spec184-0.gb alt/184.alt
+./sgb2alt spec/itm-spec185-0.gb alt/185.alt
+./sgb2alt spec/itm-spec186-0.gb alt/186.alt
+./sgb2alt spec/itm-spec187-0.gb alt/187.alt
+./sgb2alt spec/itm-spec188-0.gb alt/188.alt
+./sgb2alt spec/itm-spec189-0.gb alt/189.alt
+./sgb2alt spec/itm-spec190-0.gb alt/190.alt
+./sgb2alt spec/itm-spec191-0.gb alt/191.alt
+./sgb2alt spec/itm-spec192-0.gb alt/192.alt
+./sgb2alt spec/itm-spec193-0.gb alt/193.alt
+./sgb2alt spec/itm-spec194-0.gb alt/194.alt
+./sgb2alt spec/itm-spec195-0.gb alt/195.alt
+./sgb2alt spec/itm-spec196-0.gb alt/196.alt
+./sgb2alt spec/itm-spec197-0.gb alt/197.alt
+./sgb2alt spec/itm-spec198-0.gb alt/198.alt
+./sgb2alt spec/itm-spec199-0.gb alt/199.alt
+./sgb2alt spec/itm-spec200-0.gb alt/200.alt
+./sgb2alt spec/itm-spec201-0.gb alt/201.alt
+./sgb2alt spec/itm-spec202-0.gb alt/202.alt
+./sgb2alt spec/itm-spec203-0.gb alt/203.alt
+./sgb2alt spec/itm-spec204-0.gb alt/204.alt
+./sgb2alt spec/itm-spec205-0.gb alt/205.alt
+./sgb2alt spec/itm-spec206-0.gb alt/206.alt
+./sgb2alt spec/itm-spec207-0.gb alt/207.alt
+./sgb2alt spec/itm-spec208-0.gb alt/208.alt
+./sgb2alt spec/itm-spec209-0.gb alt/209.alt
+./sgb2alt spec/itm-spec210-0.gb alt/210.alt
+./sgb2alt spec/itm-spec211-0.gb alt/211.alt
+./sgb2alt spec/itm-spec212-0.gb alt/212.alt
+./sgb2alt spec/itm-spec213-0.gb alt/213.alt
+./sgb2alt spec/itm-spec214-0.gb alt/214.alt
+./sgb2alt spec/itm-spec215-0.gb alt/215.alt
+./sgb2alt spec/itm-spec216-0.gb alt/216.alt
+./sgb2alt spec/itm-spec217-0.gb alt/217.alt
+./sgb2alt spec/itm-spec218-0.gb alt/218.alt
+./sgb2alt spec/itm-spec219-0.gb alt/219.alt
+./sgb2alt spec/itm-spec220-0.gb alt/220.alt
+./sgb2alt spec/itm-spec221-0.gb alt/221.alt
+./sgb2alt spec/itm-spec222-0.gb alt/222.alt
+./sgb2alt spec/itm-spec223-0.gb alt/223.alt
+./sgb2alt spec/itm-spec224-0.gb alt/224.alt
+./sgb2alt spec/itm-spec225-0.gb alt/225.alt
+./sgb2alt spec/itm-spec226-0.gb alt/226.alt
+./sgb2alt spec/itm-spec227-0.gb alt/227.alt
+./sgb2alt spec/itm-spec228-0.gb alt/228.alt
+./sgb2alt spec/itm-spec229-0.gb alt/229.alt
+./sgb2alt spec/itm-spec230-0.gb alt/230.alt
+./sgb2alt spec/itm-spec231-0.gb alt/231.alt
+./sgb2alt spec/itm-spec232-0.gb alt/232.alt
+./sgb2alt spec/itm-spec233-0.gb alt/233.alt
+./sgb2alt spec/itm-spec234-0.gb alt/234.alt
+./sgb2alt spec/itm-spec235-0.gb alt/235.alt
+./sgb2alt spec/itm-spec236-0.gb alt/236.alt
+./sgb2alt spec/itm-spec237-0.gb alt/237.alt
+./sgb2alt spec/itm-spec238-0.gb alt/238.alt
+./sgb2alt spec/itm-spec239-0.gb alt/239.alt
+./sgb2alt spec/itm-spec240-0.gb alt/240.alt
+./sgb2alt spec/itm-spec241-0.gb alt/241.alt
+./sgb2alt spec/itm-spec242-0.gb alt/242.alt
+./sgb2alt spec/itm-spec243-0.gb alt/243.alt
+./sgb2alt spec/itm-spec244-0.gb alt/244.alt
+./sgb2alt spec/itm-spec245-0.gb alt/245.alt
+./sgb2alt spec/itm-spec246-0.gb alt/246.alt
+./sgb2alt spec/itm-spec247-0.gb alt/247.alt
+./sgb2alt spec/itm-spec248-0.gb alt/248.alt
+./sgb2alt spec/itm-spec249-0.gb alt/249.alt
+./sgb2alt spec/itm-spec250-0.gb alt/250.alt
+./sgb2alt spec/itm-spec251-0.gb alt/251.alt
+./sgb2alt spec/itm-spec252-0.gb alt/252.alt
+./sgb2alt spec/itm-spec253-0.gb alt/253.alt
+./sgb2alt spec/itm-spec254-0.gb alt/254.alt
+./sgb2alt spec/itm-spec255-0.gb alt/255.alt
+./sgb2alt spec/itm-spec256-0.gb alt/256.alt
+./sgb2alt spec/itm-spec257-0.gb alt/257.alt
+./sgb2alt spec/itm-spec258-0.gb alt/258.alt
+./sgb2alt spec/itm-spec259-0.gb alt/259.alt
+./sgb2alt spec/itm-spec260-0.gb alt/260.alt
+./sgb2alt spec/itm-spec261-0.gb alt/261.alt
+./sgb2alt spec/itm-spec262-0.gb alt/262.alt
+./sgb2alt spec/itm-spec263-0.gb alt/263.alt
+./sgb2alt spec/itm-spec264-0.gb alt/264.alt
+./sgb2alt spec/itm-spec265-0.gb alt/265.alt
+./sgb2alt spec/itm-spec266-0.gb alt/266.alt
+./sgb2alt spec/itm-spec267-0.gb alt/267.alt
+./sgb2alt spec/itm-spec268-0.gb alt/268.alt
+./sgb2alt spec/itm-spec269-0.gb alt/269.alt
+./sgb2alt spec/itm-spec270-0.gb alt/270.alt
+./sgb2alt spec/itm-spec271-0.gb alt/271.alt
+./sgb2alt spec/itm-spec272-0.gb alt/272.alt
+./sgb2alt spec/itm-spec273-0.gb alt/273.alt
+./sgb2alt spec/itm-spec274-0.gb alt/274.alt
+./sgb2alt spec/itm-spec275-0.gb alt/275.alt
+./sgb2alt spec/itm-spec276-0.gb alt/276.alt
+./sgb2alt spec/itm-spec277-0.gb alt/277.alt
+./sgb2alt spec/itm-spec278-0.gb alt/278.alt
+./sgb2alt spec/itm-spec279-0.gb alt/279.alt
+./sgb2alt spec/itm-spec280-0.gb alt/280.alt
+./sgb2alt spec/itm-spec281-0.gb alt/281.alt
+./sgb2alt spec/itm-spec282-0.gb alt/282.alt
+./sgb2alt spec/itm-spec283-0.gb alt/283.alt
+./sgb2alt spec/itm-spec284-0.gb alt/284.alt
+./sgb2alt spec/itm-spec285-0.gb alt/285.alt
+./sgb2alt spec/itm-spec286-0.gb alt/286.alt
+./sgb2alt spec/itm-spec287-0.gb alt/287.alt
+./sgb2alt spec/itm-spec288-0.gb alt/288.alt
+./sgb2alt spec/itm-spec289-0.gb alt/289.alt
+./sgb2alt spec/itm-spec290-0.gb alt/290.alt
+./sgb2alt spec/itm-spec291-0.gb alt/291.alt
+./sgb2alt spec/itm-spec292-0.gb alt/292.alt
+./sgb2alt spec/itm-spec293-0.gb alt/293.alt
+./sgb2alt spec/itm-spec294-0.gb alt/294.alt
+./sgb2alt spec/itm-spec295-0.gb alt/295.alt
+./sgb2alt spec/itm-spec296-0.gb alt/296.alt
+./sgb2alt spec/itm-spec297-0.gb alt/297.alt
+./sgb2alt spec/itm-spec298-0.gb alt/298.alt
+./sgb2alt spec/itm-spec299-0.gb alt/299.alt
+./sgb2alt spec/itm-spec300-0.gb alt/300.alt
+./sgb2alt spec/itm-spec301-0.gb alt/301.alt
+./sgb2alt spec/itm-spec302-0.gb alt/302.alt
+./sgb2alt spec/itm-spec303-0.gb alt/303.alt
+./sgb2alt spec/itm-spec304-0.gb alt/304.alt
+./sgb2alt spec/itm-spec305-0.gb alt/305.alt
+./sgb2alt spec/itm-spec306-0.gb alt/306.alt
+./sgb2alt spec/itm-spec307-0.gb alt/307.alt
+./sgb2alt spec/itm-spec308-0.gb alt/308.alt
+./sgb2alt spec/itm-spec309-0.gb alt/309.alt
+./sgb2alt spec/itm-spec310-0.gb alt/310.alt
+./sgb2alt spec/itm-spec311-0.gb alt/311.alt
+./sgb2alt spec/itm-spec312-0.gb alt/312.alt
+./sgb2alt spec/itm-spec313-0.gb alt/313.alt
+./sgb2alt spec/itm-spec314-0.gb alt/314.alt
+./sgb2alt spec/itm-spec315-0.gb alt/315.alt
+./sgb2alt spec/itm-spec316-0.gb alt/316.alt
+./sgb2alt spec/itm-spec317-0.gb alt/317.alt
+./sgb2alt spec/itm-spec318-0.gb alt/318.alt
+./sgb2alt spec/itm-spec319-0.gb alt/319.alt
+./sgb2alt spec/itm-spec320-0.gb alt/320.alt
+./sgb2alt spec/itm-spec321-0.gb alt/321.alt
+./sgb2alt spec/itm-spec322-0.gb alt/322.alt
+./sgb2alt spec/itm-spec323-0.gb alt/323.alt
+./sgb2alt spec/itm-spec324-0.gb alt/324.alt
+./sgb2alt spec/itm-spec325-0.gb alt/325.alt
+./sgb2alt spec/itm-spec326-0.gb alt/326.alt
+./sgb2alt spec/itm-spec327-0.gb alt/327.alt
+./sgb2alt spec/itm-spec328-0.gb alt/328.alt
+./sgb2alt spec/itm-spec329-0.gb alt/329.alt
+./sgb2alt spec/itm-spec330-0.gb alt/330.alt
+./sgb2alt spec/itm-spec331-0.gb alt/331.alt
+./sgb2alt spec/itm-spec332-0.gb alt/332.alt
+./sgb2alt spec/itm-spec333-0.gb alt/333.alt
+./sgb2alt spec/itm-spec334-0.gb alt/334.alt
+./sgb2alt spec/itm-spec335-0.gb alt/335.alt
+./sgb2alt spec/itm-spec336-0.gb alt/336.alt
+./sgb2alt spec/itm-spec337-0.gb alt/337.alt
+./sgb2alt spec/itm-spec338-0.gb alt/338.alt
+./sgb2alt spec/itm-spec339-0.gb alt/339.alt
+./sgb2alt spec/itm-spec340-0.gb alt/340.alt
+./sgb2alt spec/itm-spec341-0.gb alt/341.alt
+./sgb2alt spec/itm-spec342-0.gb alt/342.alt
+./sgb2alt spec/itm-spec343-0.gb alt/343.alt
+./sgb2alt spec/itm-spec344-0.gb alt/344.alt
+./sgb2alt spec/itm-spec345-0.gb alt/345.alt
+./sgb2alt spec/itm-spec346-0.gb alt/346.alt
+./sgb2alt spec/itm-spec347-0.gb alt/347.alt
+./sgb2alt spec/itm-spec348-0.gb alt/348.alt
+./sgb2alt spec/itm-spec349-0.gb alt/349.alt
+./sgb2alt spec/itm-spec350-0.gb alt/350.alt
+./sgb2alt spec/itm-spec351-0.gb alt/351.alt
+./sgb2alt spec/itm-spec352-0.gb alt/352.alt
+./sgb2alt spec/itm-spec353-0.gb alt/353.alt
+./sgb2alt spec/itm-spec354-0.gb alt/354.alt
+./sgb2alt spec/itm-spec355-0.gb alt/355.alt
+./sgb2alt spec/itm-spec356-0.gb alt/356.alt
+./sgb2alt spec/itm-spec357-0.gb alt/357.alt
+./sgb2alt spec/itm-spec358-0.gb alt/358.alt
+./sgb2alt spec/itm-spec359-0.gb alt/359.alt
+./sgb2alt spec/itm-spec360-0.gb alt/360.alt
+./sgb2alt spec/itm-spec361-0.gb alt/361.alt
+./sgb2alt spec/itm-spec362-0.gb alt/362.alt
+./sgb2alt spec/itm-spec363-0.gb alt/363.alt
+./sgb2alt spec/itm-spec364-0.gb alt/364.alt
+./sgb2alt spec/itm-spec365-0.gb alt/365.alt
+./sgb2alt spec/itm-spec366-0.gb alt/366.alt
+./sgb2alt spec/itm-spec367-0.gb alt/367.alt
+./sgb2alt spec/itm-spec368-0.gb alt/368.alt
+./sgb2alt spec/itm-spec369-0.gb alt/369.alt
+./sgb2alt spec/itm-spec370-0.gb alt/370.alt
+./sgb2alt spec/itm-spec371-0.gb alt/371.alt
+./sgb2alt spec/itm-spec372-0.gb alt/372.alt
+./sgb2alt spec/itm-spec373-0.gb alt/373.alt
+./sgb2alt spec/itm-spec374-0.gb alt/374.alt
+./sgb2alt spec/itm-spec375-0.gb alt/375.alt
+./sgb2alt spec/itm-spec376-0.gb alt/376.alt
+./sgb2alt spec/itm-spec377-0.gb alt/377.alt
+./sgb2alt spec/itm-spec378-0.gb alt/378.alt
+./sgb2alt spec/itm-spec379-0.gb alt/379.alt
+./sgb2alt spec/itm-spec380-0.gb alt/380.alt
+./sgb2alt spec/itm-spec381-0.gb alt/381.alt
+./sgb2alt spec/itm-spec382-0.gb alt/382.alt
+./sgb2alt spec/itm-spec383-0.gb alt/383.alt
+./sgb2alt spec/itm-spec384-0.gb alt/384.alt
+./sgb2alt spec/itm-spec385-0.gb alt/385.alt
+./sgb2alt spec/itm-spec386-0.gb alt/386.alt
+./sgb2alt spec/itm-spec387-0.gb alt/387.alt
+./sgb2alt spec/itm-spec388-0.gb alt/388.alt
+./sgb2alt spec/itm-spec389-0.gb alt/389.alt
+./sgb2alt spec/itm-spec390-0.gb alt/390.alt
+./sgb2alt spec/itm-spec391-0.gb alt/391.alt
+./sgb2alt spec/itm-spec392-0.gb alt/392.alt
+./sgb2alt spec/itm-spec393-0.gb alt/393.alt
+./sgb2alt spec/itm-spec394-0.gb alt/394.alt
+./sgb2alt spec/itm-spec395-0.gb alt/395.alt
+./sgb2alt spec/itm-spec396-0.gb alt/396.alt
+./sgb2alt spec/itm-spec397-0.gb alt/397.alt
+./sgb2alt spec/itm-spec398-0.gb alt/398.alt
+./sgb2alt spec/itm-spec399-0.gb alt/399.alt
+./sgb2alt spec/itm-spec400-0.gb alt/400.alt
+./sgb2alt spec/itm-spec401-0.gb alt/401.alt
+./sgb2alt spec/itm-spec402-0.gb alt/402.alt
+./sgb2alt spec/itm-spec403-0.gb alt/403.alt
+./sgb2alt spec/itm-spec404-0.gb alt/404.alt
+./sgb2alt spec/itm-spec405-0.gb alt/405.alt
+./sgb2alt spec/itm-spec406-0.gb alt/406.alt
+./sgb2alt spec/itm-spec407-0.gb alt/407.alt
+./sgb2alt spec/itm-spec408-0.gb alt/408.alt
+./sgb2alt spec/itm-spec409-0.gb alt/409.alt
+./sgb2alt spec/itm-spec410-0.gb alt/410.alt
+./sgb2alt spec/itm-spec411-0.gb alt/411.alt
+./sgb2alt spec/itm-spec412-0.gb alt/412.alt
+./sgb2alt spec/itm-spec413-0.gb alt/413.alt
+./sgb2alt spec/itm-spec414-0.gb alt/414.alt
+./sgb2alt spec/itm-spec415-0.gb alt/415.alt
+./sgb2alt spec/itm-spec416-0.gb alt/416.alt
+./sgb2alt spec/itm-spec417-0.gb alt/417.alt
+./sgb2alt spec/itm-spec418-0.gb alt/418.alt
+./sgb2alt spec/itm-spec419-0.gb alt/419.alt
+./sgb2alt spec/itm-spec420-0.gb alt/420.alt
+./sgb2alt spec/itm-spec421-0.gb alt/421.alt
+./sgb2alt spec/itm-spec422-0.gb alt/422.alt
+./sgb2alt spec/itm-spec423-0.gb alt/423.alt
+./sgb2alt spec/itm-spec424-0.gb alt/424.alt
+./sgb2alt spec/itm-spec425-0.gb alt/425.alt
+./sgb2alt spec/itm-spec426-0.gb alt/426.alt
+./sgb2alt spec/itm-spec427-0.gb alt/427.alt
+./sgb2alt spec/itm-spec428-0.gb alt/428.alt
+./sgb2alt spec/itm-spec429-0.gb alt/429.alt
+./sgb2alt spec/itm-spec430-0.gb alt/430.alt
+./sgb2alt spec/itm-spec431-0.gb alt/431.alt
+./sgb2alt spec/itm-spec432-0.gb alt/432.alt
+./sgb2alt spec/itm-spec433-0.gb alt/433.alt
+./sgb2alt spec/itm-spec434-0.gb alt/434.alt
+./sgb2alt spec/itm-spec435-0.gb alt/435.alt
+./sgb2alt spec/itm-spec436-0.gb alt/436.alt
+./sgb2alt spec/itm-spec437-0.gb alt/437.alt
+./sgb2alt spec/itm-spec438-0.gb alt/438.alt
+./sgb2alt spec/itm-spec439-0.gb alt/439.alt
+./sgb2alt spec/itm-spec440-0.gb alt/440.alt
+./sgb2alt spec/itm-spec441-0.gb alt/441.alt
+./sgb2alt spec/itm-spec442-0.gb alt/442.alt
+./sgb2alt spec/itm-spec443-0.gb alt/443.alt
+./sgb2alt spec/itm-spec444-0.gb alt/444.alt
+./sgb2alt spec/itm-spec445-0.gb alt/445.alt
+./sgb2alt spec/itm-spec446-0.gb alt/446.alt
+./sgb2alt spec/itm-spec447-0.gb alt/447.alt
+./sgb2alt spec/itm-spec448-0.gb alt/448.alt
+./sgb2alt spec/itm-spec449-0.gb alt/449.alt
+./sgb2alt spec/itm-spec450-0.gb alt/450.alt
+./sgb2alt spec/itm-spec451-0.gb alt/451.alt
+./sgb2alt spec/itm-spec452-0.gb alt/452.alt
+./sgb2alt spec/itm-spec453-0.gb alt/453.alt
+./sgb2alt spec/itm-spec454-0.gb alt/454.alt
+./sgb2alt spec/itm-spec455-0.gb alt/455.alt
+./sgb2alt spec/itm-spec456-0.gb alt/456.alt
+./sgb2alt spec/itm-spec457-0.gb alt/457.alt
+./sgb2alt spec/itm-spec458-0.gb alt/458.alt
+./sgb2alt spec/itm-spec459-0.gb alt/459.alt
+./sgb2alt spec/itm-spec460-0.gb alt/460.alt
+./sgb2alt spec/itm-spec461-0.gb alt/461.alt
+./sgb2alt spec/itm-spec462-0.gb alt/462.alt
+./sgb2alt spec/itm-spec463-0.gb alt/463.alt
+./sgb2alt spec/itm-spec464-0.gb alt/464.alt
+./sgb2alt spec/itm-spec465-0.gb alt/465.alt
+./sgb2alt spec/itm-spec466-0.gb alt/466.alt
+./sgb2alt spec/itm-spec467-0.gb alt/467.alt
+./sgb2alt spec/itm-spec468-0.gb alt/468.alt
+./sgb2alt spec/itm-spec469-0.gb alt/469.alt
+./sgb2alt spec/itm-spec470-0.gb alt/470.alt
+./sgb2alt spec/itm-spec471-0.gb alt/471.alt
+./sgb2alt spec/itm-spec472-0.gb alt/472.alt
+./sgb2alt spec/itm-spec473-0.gb alt/473.alt
+./sgb2alt spec/itm-spec474-0.gb alt/474.alt
+./sgb2alt spec/itm-spec475-0.gb alt/475.alt
+./sgb2alt spec/itm-spec476-0.gb alt/476.alt
+./sgb2alt spec/itm-spec477-0.gb alt/477.alt
+./sgb2alt spec/itm-spec478-0.gb alt/478.alt
+./sgb2alt spec/itm-spec479-0.gb alt/479.alt
+./sgb2alt spec/itm-spec480-0.gb alt/480.alt
+./sgb2alt spec/itm-spec481-0.gb alt/481.alt
+./sgb2alt spec/itm-spec482-0.gb alt/482.alt
+./sgb2alt spec/itm-spec483-0.gb alt/483.alt
+./sgb2alt spec/itm-spec484-0.gb alt/484.alt
+./sgb2alt spec/itm-spec485-0.gb alt/485.alt
+./sgb2alt spec/itm-spec486-0.gb alt/486.alt
+./sgb2alt spec/itm-spec487-0.gb alt/487.alt
+./sgb2alt spec/itm-spec488-0.gb alt/488.alt
+./sgb2alt spec/itm-spec489-0.gb alt/489.alt
+./sgb2alt spec/itm-spec490-0.gb alt/490.alt
+./sgb2alt spec/itm-spec491-0.gb alt/491.alt
+./sgb2alt spec/itm-spec492-0.gb alt/492.alt
+./sgb2alt spec/itm-spec493-0.gb alt/493.alt
+./sgb2alt spec/itm-spec494-0.gb alt/494.alt
+./sgb2alt spec/itm-spec495-0.gb alt/495.alt
+./sgb2alt spec/itm-spec496-0.gb alt/496.alt
+./sgb2alt spec/itm-spec497-0.gb alt/497.alt
+./sgb2alt spec/itm-spec498-0.gb alt/498.alt
+./sgb2alt spec/itm-spec499-0.gb alt/499.alt
+./sgb2alt spec/itm-spec500-0.gb alt/500.alt
+./sgb2alt spec/itm-spec501-0.gb alt/501.alt
+./sgb2alt spec/itm-spec502-0.gb alt/502.alt
+./sgb2alt spec/itm-spec503-0.gb alt/503.alt
+./sgb2alt spec/itm-spec504-0.gb alt/504.alt
+./sgb2alt spec/itm-spec505-0.gb alt/505.alt
+./sgb2alt spec/itm-spec506-0.gb alt/506.alt
+./sgb2alt spec/itm-spec507-0.gb alt/507.alt
+./sgb2alt spec/itm-spec508-0.gb alt/508.alt
+./sgb2alt spec/itm-spec509-0.gb alt/509.alt
+./sgb2alt spec/itm-spec510-0.gb alt/510.alt
+./sgb2alt spec/itm-spec511-0.gb alt/511.alt
+./sgb2alt spec/itm-spec512-0.gb alt/512.alt
+./sgb2alt spec/itm-spec513-0.gb alt/513.alt
+./sgb2alt spec/itm-spec514-0.gb alt/514.alt
+./sgb2alt spec/itm-spec515-0.gb alt/515.alt
+./sgb2alt spec/itm-spec516-0.gb alt/516.alt
+./sgb2alt spec/itm-spec517-0.gb alt/517.alt
+./sgb2alt spec/itm-spec518-0.gb alt/518.alt
+./sgb2alt spec/itm-spec519-0.gb alt/519.alt
+./sgb2alt spec/itm-spec520-0.gb alt/520.alt
+./sgb2alt spec/itm-spec521-0.gb alt/521.alt
+./sgb2alt spec/itm-spec522-0.gb alt/522.alt
+./sgb2alt spec/itm-spec523-0.gb alt/523.alt
+./sgb2alt spec/itm-spec524-0.gb alt/524.alt
+./sgb2alt spec/itm-spec525-0.gb alt/525.alt
+./sgb2alt spec/itm-spec526-0.gb alt/526.alt
+./sgb2alt spec/itm-spec527-0.gb alt/527.alt
+./sgb2alt spec/itm-spec528-0.gb alt/528.alt
+./sgb2alt spec/itm-spec529-0.gb alt/529.alt
+./sgb2alt spec/itm-spec530-0.gb alt/530.alt
+./sgb2alt spec/itm-spec531-0.gb alt/531.alt
+./sgb2alt spec/itm-spec532-0.gb alt/532.alt
+./sgb2alt spec/itm-spec533-0.gb alt/533.alt
+./sgb2alt spec/itm-spec534-0.gb alt/534.alt
+./sgb2alt spec/itm-spec535-0.gb alt/535.alt
+./sgb2alt spec/itm-spec536-0.gb alt/536.alt
+./sgb2alt spec/itm-spec537-0.gb alt/537.alt
+./sgb2alt spec/itm-spec538-0.gb alt/538.alt
+./sgb2alt spec/itm-spec539-0.gb alt/539.alt
+./sgb2alt spec/itm-spec540-0.gb alt/540.alt
+./sgb2alt spec/itm-spec541-0.gb alt/541.alt
+./sgb2alt spec/itm-spec542-0.gb alt/542.alt
+./sgb2alt spec/itm-spec543-0.gb alt/543.alt
+./sgb2alt spec/itm-spec544-0.gb alt/544.alt
+./sgb2alt spec/itm-spec545-0.gb alt/545.alt
+./sgb2alt spec/itm-spec546-0.gb alt/546.alt
+./sgb2alt spec/itm-spec547-0.gb alt/547.alt
+./sgb2alt spec/itm-spec548-0.gb alt/548.alt
+./sgb2alt spec/itm-spec549-0.gb alt/549.alt
+./sgb2alt spec/itm-spec550-0.gb alt/550.alt
+./sgb2alt spec/itm-spec551-0.gb alt/551.alt
+./sgb2alt spec/itm-spec552-0.gb alt/552.alt
+./sgb2alt spec/itm-spec553-0.gb alt/553.alt
+./sgb2alt spec/itm-spec554-0.gb alt/554.alt
+./sgb2alt spec/itm-spec555-0.gb alt/555.alt
+./sgb2alt spec/itm-spec556-0.gb alt/556.alt
+./sgb2alt spec/itm-spec557-0.gb alt/557.alt
+./sgb2alt spec/itm-spec558-0.gb alt/558.alt
+./sgb2alt spec/itm-spec559-0.gb alt/559.alt
+./sgb2alt spec/itm-spec560-0.gb alt/560.alt
+./sgb2alt spec/itm-spec561-0.gb alt/561.alt
+./sgb2alt spec/itm-spec562-0.gb alt/562.alt
+./sgb2alt spec/itm-spec563-0.gb alt/563.alt
+./sgb2alt spec/itm-spec564-0.gb alt/564.alt
+./sgb2alt spec/itm-spec565-0.gb alt/565.alt
+./sgb2alt spec/itm-spec566-0.gb alt/566.alt
+./sgb2alt spec/itm-spec567-0.gb alt/567.alt
+./sgb2alt spec/itm-spec568-0.gb alt/568.alt
+./sgb2alt spec/itm-spec569-0.gb alt/569.alt
+./sgb2alt spec/itm-spec570-0.gb alt/570.alt
+./sgb2alt spec/itm-spec571-0.gb alt/571.alt
+./sgb2alt spec/itm-spec572-0.gb alt/572.alt
+./sgb2alt spec/itm-spec573-0.gb alt/573.alt
+./sgb2alt spec/itm-spec574-0.gb alt/574.alt
+./sgb2alt spec/itm-spec575-0.gb alt/575.alt
+./sgb2alt spec/itm-spec576-0.gb alt/576.alt
+./sgb2alt spec/itm-spec577-0.gb alt/577.alt
+./sgb2alt spec/itm-spec578-0.gb alt/578.alt
+./sgb2alt spec/itm-spec579-0.gb alt/579.alt
+./sgb2alt spec/itm-spec580-0.gb alt/580.alt
+./sgb2alt spec/itm-spec581-0.gb alt/581.alt
+./sgb2alt spec/itm-spec582-0.gb alt/582.alt
+./sgb2alt spec/itm-spec583-0.gb alt/583.alt
+./sgb2alt spec/itm-spec584-0.gb alt/584.alt
+./sgb2alt spec/itm-spec585-0.gb alt/585.alt
+./sgb2alt spec/itm-spec586-0.gb alt/586.alt
+./sgb2alt spec/itm-spec587-0.gb alt/587.alt
+./sgb2alt spec/itm-spec588-0.gb alt/588.alt
+./sgb2alt spec/itm-spec589-0.gb alt/589.alt
+./sgb2alt spec/itm-spec590-0.gb alt/590.alt
+./sgb2alt spec/itm-spec591-0.gb alt/591.alt
+./sgb2alt spec/itm-spec592-0.gb alt/592.alt
+./sgb2alt spec/itm-spec593-0.gb alt/593.alt
+./sgb2alt spec/itm-spec594-0.gb alt/594.alt
+./sgb2alt spec/itm-spec595-0.gb alt/595.alt
+./sgb2alt spec/itm-spec596-0.gb alt/596.alt
+./sgb2alt spec/itm-spec597-0.gb alt/597.alt
+./sgb2alt spec/itm-spec598-0.gb alt/598.alt
+./sgb2alt spec/itm-spec599-0.gb alt/599.alt
+./sgb2alt spec/itm-spec600-0.gb alt/600.alt
+./sgb2alt spec/itm-spec601-0.gb alt/601.alt
+./sgb2alt spec/itm-spec602-0.gb alt/602.alt
+./sgb2alt spec/itm-spec603-0.gb alt/603.alt
+./sgb2alt spec/itm-spec604-0.gb alt/604.alt
+./sgb2alt spec/itm-spec605-0.gb alt/605.alt
+./sgb2alt spec/itm-spec606-0.gb alt/606.alt
+./sgb2alt spec/itm-spec607-0.gb alt/607.alt
+./sgb2alt spec/itm-spec608-0.gb alt/608.alt
+./sgb2alt spec/itm-spec609-0.gb alt/609.alt
+./sgb2alt spec/itm-spec610-0.gb alt/610.alt
+./sgb2alt spec/itm-spec611-0.gb alt/611.alt
+./sgb2alt spec/itm-spec612-0.gb alt/612.alt
+./sgb2alt spec/itm-spec613-0.gb alt/613.alt
+./sgb2alt spec/itm-spec614-0.gb alt/614.alt
+./sgb2alt spec/itm-spec615-0.gb alt/615.alt
+./sgb2alt spec/itm-spec616-0.gb alt/616.alt
+./sgb2alt spec/itm-spec617-0.gb alt/617.alt
+./sgb2alt spec/itm-spec618-0.gb alt/618.alt
+./sgb2alt spec/itm-spec619-0.gb alt/619.alt
+./sgb2alt spec/itm-spec620-0.gb alt/620.alt
+./sgb2alt spec/itm-spec621-0.gb alt/621.alt
+./sgb2alt spec/itm-spec622-0.gb alt/622.alt
+./sgb2alt spec/itm-spec623-0.gb alt/623.alt
+./sgb2alt spec/itm-spec624-0.gb alt/624.alt
+./sgb2alt spec/itm-spec625-0.gb alt/625.alt
+./sgb2alt spec/itm-spec626-0.gb alt/626.alt
+./sgb2alt spec/itm-spec627-0.gb alt/627.alt
+./sgb2alt spec/itm-spec628-0.gb alt/628.alt
+./sgb2alt spec/itm-spec629-0.gb alt/629.alt
+./sgb2alt spec/itm-spec630-0.gb alt/630.alt
+./sgb2alt spec/itm-spec631-0.gb alt/631.alt
+./sgb2alt spec/itm-spec632-0.gb alt/632.alt
+./sgb2alt spec/itm-spec633-0.gb alt/633.alt
+./sgb2alt spec/itm-spec634-0.gb alt/634.alt
+./sgb2alt spec/itm-spec635-0.gb alt/635.alt
+./sgb2alt spec/itm-spec636-0.gb alt/636.alt
+./sgb2alt spec/itm-spec637-0.gb alt/637.alt
+./sgb2alt spec/itm-spec638-0.gb alt/638.alt
+./sgb2alt spec/itm-spec639-0.gb alt/639.alt
+./sgb2alt spec/itm-spec640-0.gb alt/640.alt
+./sgb2alt spec/itm-spec641-0.gb alt/641.alt
+./sgb2alt spec/itm-spec642-0.gb alt/642.alt
+./sgb2alt spec/itm-spec643-0.gb alt/643.alt
+./sgb2alt spec/itm-spec644-0.gb alt/644.alt
+./sgb2alt spec/itm-spec645-0.gb alt/645.alt
+./sgb2alt spec/itm-spec646-0.gb alt/646.alt
+./sgb2alt spec/itm-spec647-0.gb alt/647.alt
+./sgb2alt spec/itm-spec648-0.gb alt/648.alt
+./sgb2alt spec/itm-spec649-0.gb alt/649.alt
+./sgb2alt spec/itm-spec650-0.gb alt/650.alt
+./sgb2alt spec/itm-spec651-0.gb alt/651.alt
+./sgb2alt spec/itm-spec652-0.gb alt/652.alt
+./sgb2alt spec/itm-spec653-0.gb alt/653.alt
+./sgb2alt spec/itm-spec654-0.gb alt/654.alt
+./sgb2alt spec/itm-spec655-0.gb alt/655.alt
+./sgb2alt spec/itm-spec656-0.gb alt/656.alt
+./sgb2alt spec/itm-spec657-0.gb alt/657.alt
+./sgb2alt spec/itm-spec658-0.gb alt/658.alt
+./sgb2alt spec/itm-spec659-0.gb alt/659.alt
+./sgb2alt spec/itm-spec660-0.gb alt/660.alt
+./sgb2alt spec/itm-spec661-0.gb alt/661.alt
+./sgb2alt spec/itm-spec662-0.gb alt/662.alt
+./sgb2alt spec/itm-spec663-0.gb alt/663.alt
+./sgb2alt spec/itm-spec664-0.gb alt/664.alt
+./sgb2alt spec/itm-spec665-0.gb alt/665.alt
+./sgb2alt spec/itm-spec666-0.gb alt/666.alt
+./sgb2alt spec/itm-spec667-0.gb alt/667.alt
+./sgb2alt spec/itm-spec668-0.gb alt/668.alt
+./sgb2alt spec/itm-spec669-0.gb alt/669.alt
+./sgb2alt spec/itm-spec670-0.gb alt/670.alt
+./sgb2alt spec/itm-spec671-0.gb alt/671.alt
+./sgb2alt spec/itm-spec672-0.gb alt/672.alt
+./sgb2alt spec/itm-spec673-0.gb alt/673.alt
+./sgb2alt spec/itm-spec674-0.gb alt/674.alt
+./sgb2alt spec/itm-spec675-0.gb alt/675.alt
+./sgb2alt spec/itm-spec676-0.gb alt/676.alt
+./sgb2alt spec/itm-spec677-0.gb alt/677.alt
+./sgb2alt spec/itm-spec678-0.gb alt/678.alt
+./sgb2alt spec/itm-spec679-0.gb alt/679.alt
+./sgb2alt spec/itm-spec680-0.gb alt/680.alt
+./sgb2alt spec/itm-spec681-0.gb alt/681.alt
+./sgb2alt spec/itm-spec682-0.gb alt/682.alt
+./sgb2alt spec/itm-spec683-0.gb alt/683.alt
+./sgb2alt spec/itm-spec684-0.gb alt/684.alt
+./sgb2alt spec/itm-spec685-0.gb alt/685.alt
+./sgb2alt spec/itm-spec686-0.gb alt/686.alt
+./sgb2alt spec/itm-spec687-0.gb alt/687.alt
+./sgb2alt spec/itm-spec688-0.gb alt/688.alt
+./sgb2alt spec/itm-spec689-0.gb alt/689.alt
+./sgb2alt spec/itm-spec690-0.gb alt/690.alt
+./sgb2alt spec/itm-spec691-0.gb alt/691.alt
+./sgb2alt spec/itm-spec692-0.gb alt/692.alt
+./sgb2alt spec/itm-spec693-0.gb alt/693.alt
+./sgb2alt spec/itm-spec694-0.gb alt/694.alt
+./sgb2alt spec/itm-spec695-0.gb alt/695.alt
+./sgb2alt spec/itm-spec696-0.gb alt/696.alt
+./sgb2alt spec/itm-spec697-0.gb alt/697.alt
+./sgb2alt spec/itm-spec698-0.gb alt/698.alt
+./sgb2alt spec/itm-spec699-0.gb alt/699.alt
+./sgb2alt spec/itm-spec700-0.gb alt/700.alt
+./sgb2alt spec/itm-spec701-0.gb alt/701.alt
+./sgb2alt spec/itm-spec702-0.gb alt/702.alt
+./sgb2alt spec/itm-spec703-0.gb alt/703.alt
+./sgb2alt spec/itm-spec704-0.gb alt/704.alt
+./sgb2alt spec/itm-spec705-0.gb alt/705.alt
+./sgb2alt spec/itm-spec706-0.gb alt/706.alt
+./sgb2alt spec/itm-spec707-0.gb alt/707.alt
+./sgb2alt spec/itm-spec708-0.gb alt/708.alt
+./sgb2alt spec/itm-spec709-0.gb alt/709.alt
+./sgb2alt spec/itm-spec710-0.gb alt/710.alt
+./sgb2alt spec/itm-spec711-0.gb alt/711.alt
+./sgb2alt spec/itm-spec712-0.gb alt/712.alt
+./sgb2alt spec/itm-spec713-0.gb alt/713.alt
+./sgb2alt spec/itm-spec714-0.gb alt/714.alt
+./sgb2alt spec/itm-spec715-0.gb alt/715.alt
+./sgb2alt spec/itm-spec716-0.gb alt/716.alt
+./sgb2alt spec/itm-spec717-0.gb alt/717.alt
+./sgb2alt spec/itm-spec718-0.gb alt/718.alt
+./sgb2alt spec/itm-spec719-0.gb alt/719.alt
+./sgb2alt spec/itm-spec720-0.gb alt/720.alt
+./sgb2alt spec/itm-spec721-0.gb alt/721.alt
+./sgb2alt spec/itm-spec722-0.gb alt/722.alt
+./sgb2alt spec/itm-spec723-0.gb alt/723.alt
+./sgb2alt spec/itm-spec724-0.gb alt/724.alt
+./sgb2alt spec/itm-spec725-0.gb alt/725.alt
+./sgb2alt spec/itm-spec726-0.gb alt/726.alt
+./sgb2alt spec/itm-spec727-0.gb alt/727.alt
+./sgb2alt spec/itm-spec728-0.gb alt/728.alt
+./sgb2alt spec/itm-spec729-0.gb alt/729.alt
+./sgb2alt spec/itm-spec730-0.gb alt/730.alt
+./sgb2alt spec/itm-spec731-0.gb alt/731.alt
+./sgb2alt spec/itm-spec732-0.gb alt/732.alt
+./sgb2alt spec/itm-spec733-0.gb alt/733.alt
+./sgb2alt spec/itm-spec734-0.gb alt/734.alt
+./sgb2alt spec/itm-spec735-0.gb alt/735.alt
+./sgb2alt spec/itm-spec736-0.gb alt/736.alt
+./sgb2alt spec/itm-spec737-0.gb alt/737.alt
+./sgb2alt spec/itm-spec738-0.gb alt/738.alt
+./sgb2alt spec/itm-spec739-0.gb alt/739.alt
+./sgb2alt spec/itm-spec740-0.gb alt/740.alt
+./sgb2alt spec/itm-spec741-0.gb alt/741.alt
+./sgb2alt spec/itm-spec742-0.gb alt/742.alt
+./sgb2alt spec/itm-spec743-0.gb alt/743.alt
+./sgb2alt spec/itm-spec744-0.gb alt/744.alt
+./sgb2alt spec/itm-spec745-0.gb alt/745.alt
+./sgb2alt spec/itm-spec746-0.gb alt/746.alt
+./sgb2alt spec/itm-spec747-0.gb alt/747.alt
+./sgb2alt spec/itm-spec748-0.gb alt/748.alt
+./sgb2alt spec/itm-spec749-0.gb alt/749.alt
+./sgb2alt spec/itm-spec750-0.gb alt/750.alt
+./sgb2alt spec/itm-spec751-0.gb alt/751.alt
+./sgb2alt spec/itm-spec752-0.gb alt/752.alt
+./sgb2alt spec/itm-spec753-0.gb alt/753.alt
+./sgb2alt spec/itm-spec754-0.gb alt/754.alt
+./sgb2alt spec/itm-spec755-0.gb alt/755.alt
+./sgb2alt spec/itm-spec756-0.gb alt/756.alt
+./sgb2alt spec/itm-spec757-0.gb alt/757.alt
+./sgb2alt spec/itm-spec758-0.gb alt/758.alt
+./sgb2alt spec/itm-spec759-0.gb alt/759.alt
+./sgb2alt spec/itm-spec760-0.gb alt/760.alt
+./sgb2alt spec/itm-spec761-0.gb alt/761.alt
+./sgb2alt spec/itm-spec762-0.gb alt/762.alt
+./sgb2alt spec/itm-spec763-0.gb alt/763.alt
+./sgb2alt spec/itm-spec764-0.gb alt/764.alt
+./sgb2alt spec/itm-spec765-0.gb alt/765.alt
+./sgb2alt spec/itm-spec766-0.gb alt/766.alt
+./sgb2alt spec/itm-spec767-0.gb alt/767.alt
+./sgb2alt spec/itm-spec768-0.gb alt/768.alt
+./sgb2alt spec/itm-spec769-0.gb alt/769.alt
+./sgb2alt spec/itm-spec770-0.gb alt/770.alt
+./sgb2alt spec/itm-spec771-0.gb alt/771.alt
+./sgb2alt spec/itm-spec772-0.gb alt/772.alt
+./sgb2alt spec/itm-spec773-0.gb alt/773.alt
+./sgb2alt spec/itm-spec774-0.gb alt/774.alt
+./sgb2alt spec/itm-spec775-0.gb alt/775.alt
+./sgb2alt spec/itm-spec776-0.gb alt/776.alt
+./sgb2alt spec/itm-spec777-0.gb alt/777.alt
+./sgb2alt spec/itm-spec778-0.gb alt/778.alt
+./sgb2alt spec/itm-spec779-0.gb alt/779.alt
+./sgb2alt spec/itm-spec780-0.gb alt/780.alt
+./sgb2alt spec/itm-spec781-0.gb alt/781.alt
+./sgb2alt spec/itm-spec782-0.gb alt/782.alt
+./sgb2alt spec/itm-spec783-0.gb alt/783.alt
+./sgb2alt spec/itm-spec784-0.gb alt/784.alt
+./sgb2alt spec/itm-spec785-0.gb alt/785.alt
+./sgb2alt spec/itm-spec786-0.gb alt/786.alt
+./sgb2alt spec/itm-spec787-0.gb alt/787.alt
+./sgb2alt spec/itm-spec788-0.gb alt/788.alt
+./sgb2alt spec/itm-spec789-0.gb alt/789.alt
+./sgb2alt spec/itm-spec790-0.gb alt/790.alt
+./sgb2alt spec/itm-spec791-0.gb alt/791.alt
+./sgb2alt spec/itm-spec792-0.gb alt/792.alt
+./sgb2alt spec/itm-spec793-0.gb alt/793.alt
+./sgb2alt spec/itm-spec794-0.gb alt/794.alt
+./sgb2alt spec/itm-spec795-0.gb alt/795.alt
+./sgb2alt spec/itm-spec796-0.gb alt/796.alt
+./sgb2alt spec/itm-spec797-0.gb alt/797.alt
+./sgb2alt spec/itm-spec798-0.gb alt/798.alt
+./sgb2alt spec/itm-spec799-0.gb alt/799.alt
+./sgb2alt spec/itm-spec800-0.gb alt/800.alt
+./sgb2alt spec/itm-spec801-0.gb alt/801.alt
+./sgb2alt spec/itm-spec802-0.gb alt/802.alt
+./sgb2alt spec/itm-spec803-0.gb alt/803.alt
+./sgb2alt spec/itm-spec804-0.gb alt/804.alt
+./sgb2alt spec/itm-spec805-0.gb alt/805.alt
+./sgb2alt spec/itm-spec806-0.gb alt/806.alt
+./sgb2alt spec/itm-spec807-0.gb alt/807.alt
+./sgb2alt spec/itm-spec808-0.gb alt/808.alt
+./sgb2alt spec/itm-spec809-0.gb alt/809.alt
+./sgb2alt spec/itm-spec810-0.gb alt/810.alt
+./sgb2alt spec/itm-spec811-0.gb alt/811.alt
+./sgb2alt spec/itm-spec812-0.gb alt/812.alt
+./sgb2alt spec/itm-spec813-0.gb alt/813.alt
+./sgb2alt spec/itm-spec814-0.gb alt/814.alt
+./sgb2alt spec/itm-spec815-0.gb alt/815.alt
+./sgb2alt spec/itm-spec816-0.gb alt/816.alt
+./sgb2alt spec/itm-spec817-0.gb alt/817.alt
+./sgb2alt spec/itm-spec818-0.gb alt/818.alt
+./sgb2alt spec/itm-spec819-0.gb alt/819.alt
+./sgb2alt spec/itm-spec820-0.gb alt/820.alt
+./sgb2alt spec/itm-spec821-0.gb alt/821.alt
+./sgb2alt spec/itm-spec822-0.gb alt/822.alt
+./sgb2alt spec/itm-spec823-0.gb alt/823.alt
+./sgb2alt spec/itm-spec824-0.gb alt/824.alt
+./sgb2alt spec/itm-spec825-0.gb alt/825.alt
+./sgb2alt spec/itm-spec826-0.gb alt/826.alt
+./sgb2alt spec/itm-spec827-0.gb alt/827.alt
+./sgb2alt spec/itm-spec828-0.gb alt/828.alt
+./sgb2alt spec/itm-spec829-0.gb alt/829.alt
+./sgb2alt spec/itm-spec830-0.gb alt/830.alt
+./sgb2alt spec/itm-spec831-0.gb alt/831.alt
+./sgb2alt spec/itm-spec832-0.gb alt/832.alt
+./sgb2alt spec/itm-spec833-0.gb alt/833.alt
+./sgb2alt spec/itm-spec834-0.gb alt/834.alt
+./sgb2alt spec/itm-spec835-0.gb alt/835.alt
+./sgb2alt spec/itm-spec836-0.gb alt/836.alt
+./sgb2alt spec/itm-spec837-0.gb alt/837.alt
+./sgb2alt spec/itm-spec838-0.gb alt/838.alt
+./sgb2alt spec/itm-spec839-0.gb alt/839.alt
+./sgb2alt spec/itm-spec840-0.gb alt/840.alt
+./sgb2alt spec/itm-spec841-0.gb alt/841.alt
+./sgb2alt spec/itm-spec842-0.gb alt/842.alt
+./sgb2alt spec/itm-spec843-0.gb alt/843.alt
+./sgb2alt spec/itm-spec844-0.gb alt/844.alt
+./sgb2alt spec/itm-spec845-0.gb alt/845.alt
+./sgb2alt spec/itm-spec846-0.gb alt/846.alt
+./sgb2alt spec/itm-spec847-0.gb alt/847.alt
+./sgb2alt spec/itm-spec848-0.gb alt/848.alt
+./sgb2alt spec/itm-spec849-0.gb alt/849.alt
+./sgb2alt spec/itm-spec850-0.gb alt/850.alt
+./sgb2alt spec/itm-spec851-0.gb alt/851.alt
+./sgb2alt spec/itm-spec852-0.gb alt/852.alt
+./sgb2alt spec/itm-spec853-0.gb alt/853.alt
+./sgb2alt spec/itm-spec854-0.gb alt/854.alt
+./sgb2alt spec/itm-spec855-0.gb alt/855.alt
+./sgb2alt spec/itm-spec856-0.gb alt/856.alt
+./sgb2alt spec/itm-spec857-0.gb alt/857.alt
+./sgb2alt spec/itm-spec858-0.gb alt/858.alt
+./sgb2alt spec/itm-spec859-0.gb alt/859.alt
+./sgb2alt spec/itm-spec860-0.gb alt/860.alt
+./sgb2alt spec/itm-spec861-0.gb alt/861.alt
+./sgb2alt spec/itm-spec862-0.gb alt/862.alt
+./sgb2alt spec/itm-spec863-0.gb alt/863.alt
+./sgb2alt spec/itm-spec864-0.gb alt/864.alt
+./sgb2alt spec/itm-spec865-0.gb alt/865.alt
+./sgb2alt spec/itm-spec866-0.gb alt/866.alt
+./sgb2alt spec/itm-spec867-0.gb alt/867.alt
+./sgb2alt spec/itm-spec868-0.gb alt/868.alt
+./sgb2alt spec/itm-spec869-0.gb alt/869.alt
+./sgb2alt spec/itm-spec870-0.gb alt/870.alt
+./sgb2alt spec/itm-spec871-0.gb alt/871.alt
+./sgb2alt spec/itm-spec872-0.gb alt/872.alt
+./sgb2alt spec/itm-spec873-0.gb alt/873.alt
+./sgb2alt spec/itm-spec874-0.gb alt/874.alt
+./sgb2alt spec/itm-spec875-0.gb alt/875.alt
+./sgb2alt spec/itm-spec876-0.gb alt/876.alt
+./sgb2alt spec/itm-spec877-0.gb alt/877.alt
+./sgb2alt spec/itm-spec878-0.gb alt/878.alt
+./sgb2alt spec/itm-spec879-0.gb alt/879.alt
+./sgb2alt spec/itm-spec880-0.gb alt/880.alt
+./sgb2alt spec/itm-spec881-0.gb alt/881.alt
+./sgb2alt spec/itm-spec882-0.gb alt/882.alt
+./sgb2alt spec/itm-spec883-0.gb alt/883.alt
+./sgb2alt spec/itm-spec884-0.gb alt/884.alt
+./sgb2alt spec/itm-spec885-0.gb alt/885.alt
+./sgb2alt spec/itm-spec886-0.gb alt/886.alt
+./sgb2alt spec/itm-spec887-0.gb alt/887.alt
+./sgb2alt spec/itm-spec888-0.gb alt/888.alt
+./sgb2alt spec/itm-spec889-0.gb alt/889.alt
+./sgb2alt spec/itm-spec890-0.gb alt/890.alt
+./sgb2alt spec/itm-spec891-0.gb alt/891.alt
+./sgb2alt spec/itm-spec892-0.gb alt/892.alt
+./sgb2alt spec/itm-spec893-0.gb alt/893.alt
+./sgb2alt spec/itm-spec894-0.gb alt/894.alt
+./sgb2alt spec/itm-spec895-0.gb alt/895.alt
+./sgb2alt spec/itm-spec896-0.gb alt/896.alt
+./sgb2alt spec/itm-spec897-0.gb alt/897.alt
+./sgb2alt spec/itm-spec898-0.gb alt/898.alt
+./sgb2alt spec/itm-spec899-0.gb alt/899.alt
+./sgb2alt spec/itm-spec900-0.gb alt/900.alt
+./sgb2alt spec/itm-spec901-0.gb alt/901.alt
+./sgb2alt spec/itm-spec902-0.gb alt/902.alt
+./sgb2alt spec/itm-spec903-0.gb alt/903.alt
+./sgb2alt spec/itm-spec904-0.gb alt/904.alt
+./sgb2alt spec/itm-spec905-0.gb alt/905.alt
+./sgb2alt spec/itm-spec906-0.gb alt/906.alt
+./sgb2alt spec/itm-spec907-0.gb alt/907.alt
+./sgb2alt spec/itm-spec908-0.gb alt/908.alt
+./sgb2alt spec/itm-spec909-0.gb alt/909.alt
+./sgb2alt spec/itm-spec910-0.gb alt/910.alt
+./sgb2alt spec/itm-spec911-0.gb alt/911.alt
+./sgb2alt spec/itm-spec912-0.gb alt/912.alt
+./sgb2alt spec/itm-spec913-0.gb alt/913.alt
+./sgb2alt spec/itm-spec914-0.gb alt/914.alt
+./sgb2alt spec/itm-spec915-0.gb alt/915.alt
+./sgb2alt spec/itm-spec916-0.gb alt/916.alt
+./sgb2alt spec/itm-spec917-0.gb alt/917.alt
+./sgb2alt spec/itm-spec918-0.gb alt/918.alt
+./sgb2alt spec/itm-spec919-0.gb alt/919.alt
+./sgb2alt spec/itm-spec920-0.gb alt/920.alt
+./sgb2alt spec/itm-spec921-0.gb alt/921.alt
+./sgb2alt spec/itm-spec922-0.gb alt/922.alt
+./sgb2alt spec/itm-spec923-0.gb alt/923.alt
+./sgb2alt spec/itm-spec924-0.gb alt/924.alt
+./sgb2alt spec/itm-spec925-0.gb alt/925.alt
+./sgb2alt spec/itm-spec926-0.gb alt/926.alt
+./sgb2alt spec/itm-spec927-0.gb alt/927.alt
+./sgb2alt spec/itm-spec928-0.gb alt/928.alt
+./sgb2alt spec/itm-spec929-0.gb alt/929.alt
+./sgb2alt spec/itm-spec930-0.gb alt/930.alt
+./sgb2alt spec/itm-spec931-0.gb alt/931.alt
+./sgb2alt spec/itm-spec932-0.gb alt/932.alt
+./sgb2alt spec/itm-spec933-0.gb alt/933.alt
+./sgb2alt spec/itm-spec934-0.gb alt/934.alt
+./sgb2alt spec/itm-spec935-0.gb alt/935.alt
+./sgb2alt spec/itm-spec936-0.gb alt/936.alt
+./sgb2alt spec/itm-spec937-0.gb alt/937.alt
+./sgb2alt spec/itm-spec938-0.gb alt/938.alt
+./sgb2alt spec/itm-spec939-0.gb alt/939.alt
+./sgb2alt spec/itm-spec940-0.gb alt/940.alt
+./sgb2alt spec/itm-spec941-0.gb alt/941.alt
+./sgb2alt spec/itm-spec942-0.gb alt/942.alt
+./sgb2alt spec/itm-spec943-0.gb alt/943.alt
+./sgb2alt spec/itm-spec944-0.gb alt/944.alt
+./sgb2alt spec/itm-spec945-0.gb alt/945.alt
+./sgb2alt spec/itm-spec946-0.gb alt/946.alt
+./sgb2alt spec/itm-spec947-0.gb alt/947.alt
+./sgb2alt spec/itm-spec948-0.gb alt/948.alt
+./sgb2alt spec/itm-spec949-0.gb alt/949.alt
+./sgb2alt spec/itm-spec950-0.gb alt/950.alt
+./sgb2alt spec/itm-spec951-0.gb alt/951.alt
+./sgb2alt spec/itm-spec952-0.gb alt/952.alt
+./sgb2alt spec/itm-spec953-0.gb alt/953.alt
+./sgb2alt spec/itm-spec954-0.gb alt/954.alt
+./sgb2alt spec/itm-spec955-0.gb alt/955.alt
+./sgb2alt spec/itm-spec956-0.gb alt/956.alt
+./sgb2alt spec/itm-spec957-0.gb alt/957.alt
+./sgb2alt spec/itm-spec958-0.gb alt/958.alt
+./sgb2alt spec/itm-spec959-0.gb alt/959.alt
+./sgb2alt spec/itm-spec960-0.gb alt/960.alt
+./sgb2alt spec/itm-spec961-0.gb alt/961.alt
+./sgb2alt spec/itm-spec962-0.gb alt/962.alt
+./sgb2alt spec/itm-spec963-0.gb alt/963.alt
+./sgb2alt spec/itm-spec964-0.gb alt/964.alt
+./sgb2alt spec/itm-spec965-0.gb alt/965.alt
+./sgb2alt spec/itm-spec966-0.gb alt/966.alt
+./sgb2alt spec/itm-spec967-0.gb alt/967.alt
+./sgb2alt spec/itm-spec968-0.gb alt/968.alt
+./sgb2alt spec/itm-spec969-0.gb alt/969.alt
+./sgb2alt spec/itm-spec970-0.gb alt/970.alt
+./sgb2alt spec/itm-spec971-0.gb alt/971.alt
+./sgb2alt spec/itm-spec972-0.gb alt/972.alt
+./sgb2alt spec/itm-spec973-0.gb alt/973.alt
+./sgb2alt spec/itm-spec974-0.gb alt/974.alt
+./sgb2alt spec/itm-spec975-0.gb alt/975.alt
+./sgb2alt spec/itm-spec976-0.gb alt/976.alt
+./sgb2alt spec/itm-spec977-0.gb alt/977.alt
+./sgb2alt spec/itm-spec978-0.gb alt/978.alt
+./sgb2alt spec/itm-spec979-0.gb alt/979.alt
+./sgb2alt spec/itm-spec980-0.gb alt/980.alt
+./sgb2alt spec/itm-spec981-0.gb alt/981.alt
+./sgb2alt spec/itm-spec982-0.gb alt/982.alt
+./sgb2alt spec/itm-spec983-0.gb alt/983.alt
+./sgb2alt spec/itm-spec984-0.gb alt/984.alt
+./sgb2alt spec/itm-spec985-0.gb alt/985.alt
+./sgb2alt spec/itm-spec986-0.gb alt/986.alt
+./sgb2alt spec/itm-spec987-0.gb alt/987.alt
+./sgb2alt spec/itm-spec988-0.gb alt/988.alt
+./sgb2alt spec/itm-spec989-0.gb alt/989.alt
+./sgb2alt spec/itm-spec990-0.gb alt/990.alt
+./sgb2alt spec/itm-spec991-0.gb alt/991.alt
+./sgb2alt spec/itm-spec992-0.gb alt/992.alt
+./sgb2alt spec/itm-spec993-0.gb alt/993.alt
+./sgb2alt spec/itm-spec994-0.gb alt/994.alt
+./sgb2alt spec/itm-spec995-0.gb alt/995.alt
+./sgb2alt spec/itm-spec996-0.gb alt/996.alt
+./sgb2alt spec/itm-spec997-0.gb alt/997.alt
+./sgb2alt spec/itm-spec998-0.gb alt/998.alt
+./sgb2alt spec/itm-spec999-0.gb alt/999.alt
+generate req 0
+k 4
+time 20
+generate req 1
+time 40
+generate req 2
+time 60
+generate req 3
+time 80
+generate req 4
+k 6
+time 114
+generate req 5
+time 128
+generate req 6
+time 142
+generate req 7
+time 157
+generate req 8
+time 171
+generate req 9
+time 185
+generate req 10
+k 6
+time 214
+generate req 11
+time 228
+generate req 12
+time 242
+generate req 13
+time 257
+generate req 14
+time 271
+generate req 15
+time 285
+generate req 16
+k 1
+time 350
+generate req 17
+k 6
+time 414
+generate req 18
+time 428
+generate req 19
+time 442
+generate req 20
+time 457
+generate req 21
+time 471
+generate req 22
+time 485
+generate req 23
+k 8
+time 511
+generate req 24
+time 522
+generate req 25
+time 533
+generate req 26
+time 544
+generate req 27
+time 555
+generate req 28
+time 566
+generate req 29
+time 577
+generate req 30
+time 588
+generate req 31
+k 6
+time 614
+generate req 32
+time 628
+generate req 33
+time 642
+generate req 34
+time 657
+generate req 35
+time 671
+generate req 36
+time 685
+generate req 37
+k 2
+time 733
+generate req 38
+time 766
+generate req 39
+k 2
+time 833
+generate req 40
+time 866
+generate req 41
+k 6
+time 914
+generate req 42
+time 928
+generate req 43
+time 942
+generate req 44
+time 957
+generate req 45
+time 971
+generate req 46
+time 985
+generate req 47
+k 7
+time 1012
+generate req 48
+time 1025
+generate req 49
+time 1037
+generate req 50
+time 1050
+generate req 51
+time 1062
+generate req 52
+time 1075
+generate req 53
+time 1087
+generate req 54
+k 6
+time 1114
+generate req 55
+time 1128
+generate req 56
+time 1142
+generate req 57
+time 1157
+generate req 58
+time 1171
+generate req 59
+time 1185
+generate req 60
+k 4
+time 1220
+generate req 61
+time 1240
+generate req 62
+time 1260
+generate req 63
+time 1280
+generate req 64
+k 3
+time 1325
+generate req 65
+time 1350
+generate req 66
+time 1375
+generate req 67
+k 2
+time 1433
+generate req 68
+time 1466
+generate req 69
+k 3
+time 1525
+generate req 70
+time 1550
+generate req 71
+time 1575
+generate req 72
+k 1
+time 1650
+generate req 73
+k 9
+time 1710
+generate req 74
+time 1720
+generate req 75
+time 1730
+generate req 76
+time 1740
+generate req 77
+time 1750
+generate req 78
+time 1760
+generate req 79
+time 1770
+generate req 80
+time 1780
+generate req 81
+time 1790
+generate req 82
+k 8
+time 1811
+generate req 83
+time 1822
+generate req 84
+time 1833
+generate req 85
+time 1844
+generate req 86
+time 1855
+generate req 87
+time 1866
+generate req 88
+time 1877
+generate req 89
+time 1888
+generate req 90
+k 7
+time 1912
+generate req 91
+time 1925
+generate req 92
+time 1937
+generate req 93
+time 1950
+generate req 94
+time 1962
+generate req 95
+time 1975
+generate req 96
+time 1987
+generate req 97
+k 3
+time 2025
+generate req 98
+time 2050
+generate req 99
+time 2075
+generate req 100
+k 3
+time 2125
+generate req 101
+time 2150
+generate req 102
+time 2175
+generate req 103
+k 4
+time 2220
+generate req 104
+time 2240
+generate req 105
+time 2260
+generate req 106
+time 2280
+generate req 107
+k 7
+time 2312
+generate req 108
+time 2325
+generate req 109
+time 2337
+generate req 110
+time 2350
+generate req 111
+time 2362
+generate req 112
+time 2375
+generate req 113
+time 2387
+generate req 114
+k 2
+time 2433
+generate req 115
+time 2466
+generate req 116
+k 3
+time 2525
+generate req 117
+time 2550
+generate req 118
+time 2575
+generate req 119
+k 3
+time 2625
+generate req 120
+time 2650
+generate req 121
+time 2675
+generate req 122
+k 4
+time 2720
+generate req 123
+time 2740
+generate req 124
+time 2760
+generate req 125
+time 2780
+generate req 126
+k 4
+time 2820
+generate req 127
+time 2840
+generate req 128
+time 2860
+generate req 129
+time 2880
+generate req 130
+k 2
+time 2933
+generate req 131
+time 2966
+generate req 132
+k 9
+time 3010
+generate req 133
+time 3020
+generate req 134
+time 3030
+generate req 135
+time 3040
+generate req 136
+time 3050
+generate req 137
+time 3060
+generate req 138
+time 3070
+generate req 139
+time 3080
+generate req 140
+time 3090
+generate req 141
+k 4
+time 3120
+generate req 142
+time 3140
+generate req 143
+time 3160
+generate req 144
+time 3180
+generate req 145
+k 8
+time 3211
+generate req 146
+time 3222
+generate req 147
+time 3233
+generate req 148
+time 3244
+generate req 149
+time 3255
+generate req 150
+time 3266
+generate req 151
+time 3277
+generate req 152
+time 3288
+generate req 153
+k 5
+time 3316
+generate req 154
+time 3333
+generate req 155
+time 3350
+generate req 156
+time 3366
+generate req 157
+time 3383
+generate req 158
+k 1
+time 3450
+generate req 159
+k 3
+time 3525
+generate req 160
+time 3550
+generate req 161
+time 3575
+generate req 162
+k 7
+time 3612
+generate req 163
+time 3625
+generate req 164
+time 3637
+generate req 165
+time 3650
+generate req 166
+time 3662
+generate req 167
+time 3675
+generate req 168
+time 3687
+generate req 169
+k 6
+time 3714
+generate req 170
+time 3728
+generate req 171
+time 3742
+generate req 172
+time 3757
+generate req 173
+time 3771
+generate req 174
+time 3785
+generate req 175
+k 5
+time 3816
+generate req 176
+time 3833
+generate req 177
+time 3850
+generate req 178
+time 3866
+generate req 179
+time 3883
+generate req 180
+k 4
+time 3920
+generate req 181
+time 3940
+generate req 182
+time 3960
+generate req 183
+time 3980
+generate req 184
+k 7
+time 4012
+generate req 185
+time 4025
+generate req 186
+time 4037
+generate req 187
+time 4050
+generate req 188
+time 4062
+generate req 189
+time 4075
+generate req 190
+time 4087
+generate req 191
+k 2
+time 4133
+generate req 192
+time 4166
+generate req 193
+k 2
+time 4233
+generate req 194
+time 4266
+generate req 195
+k 2
+time 4333
+generate req 196
+time 4366
+generate req 197
+k 7
+time 4412
+generate req 198
+time 4425
+generate req 199
+time 4437
+generate req 200
+time 4450
+generate req 201
+time 4462
+generate req 202
+time 4475
+generate req 203
+time 4487
+generate req 204
+k 5
+time 4516
+generate req 205
+time 4533
+generate req 206
+time 4550
+generate req 207
+time 4566
+generate req 208
+time 4583
+generate req 209
+k 2
+time 4633
+generate req 210
+time 4666
+generate req 211
+k 3
+time 4725
+generate req 212
+time 4750
+generate req 213
+time 4775
+generate req 214
+k 6
+time 4814
+generate req 215
+time 4828
+generate req 216
+time 4842
+generate req 217
+time 4857
+generate req 218
+time 4871
+generate req 219
+time 4885
+generate req 220
+k 8
+time 4911
+generate req 221
+time 4922
+generate req 222
+time 4933
+generate req 223
+time 4944
+generate req 224
+time 4955
+generate req 225
+time 4966
+generate req 226
+time 4977
+generate req 227
+time 4988
+generate req 228
+k 8
+time 5011
+generate req 229
+time 5022
+generate req 230
+time 5033
+generate req 231
+time 5044
+generate req 232
+time 5055
+generate req 233
+time 5066
+generate req 234
+time 5077
+generate req 235
+time 5088
+generate req 236
+k 6
+time 5114
+generate req 237
+time 5128
+generate req 238
+time 5142
+generate req 239
+time 5157
+generate req 240
+time 5171
+generate req 241
+time 5185
+generate req 242
+k 6
+time 5214
+generate req 243
+time 5228
+generate req 244
+time 5242
+generate req 245
+time 5257
+generate req 246
+time 5271
+generate req 247
+time 5285
+generate req 248
+k 7
+time 5312
+generate req 249
+time 5325
+generate req 250
+time 5337
+generate req 251
+time 5350
+generate req 252
+time 5362
+generate req 253
+time 5375
+generate req 254
+time 5387
+generate req 255
+k 3
+time 5425
+generate req 256
+time 5450
+generate req 257
+time 5475
+generate req 258
+k 3
+time 5525
+generate req 259
+time 5550
+generate req 260
+time 5575
+generate req 261
+k 4
+time 5620
+generate req 262
+time 5640
+generate req 263
+time 5660
+generate req 264
+time 5680
+generate req 265
+k 1
+time 5750
+generate req 266
+k 3
+time 5825
+generate req 267
+time 5850
+generate req 268
+time 5875
+generate req 269
+k 4
+time 5920
+generate req 270
+time 5940
+generate req 271
+time 5960
+generate req 272
+time 5980
+generate req 273
+k 7
+time 6012
+generate req 274
+time 6025
+generate req 275
+time 6037
+generate req 276
+time 6050
+generate req 277
+time 6062
+generate req 278
+time 6075
+generate req 279
+time 6087
+generate req 280
+k 4
+time 6120
+generate req 281
+time 6140
+generate req 282
+time 6160
+generate req 283
+time 6180
+generate req 284
+k 7
+time 6212
+generate req 285
+time 6225
+generate req 286
+time 6237
+generate req 287
+time 6250
+generate req 288
+time 6262
+generate req 289
+time 6275
+generate req 290
+time 6287
+generate req 291
+k 7
+time 6312
+generate req 292
+time 6325
+generate req 293
+time 6337
+generate req 294
+time 6350
+generate req 295
+time 6362
+generate req 296
+time 6375
+generate req 297
+time 6387
+generate req 298
+k 6
+time 6414
+generate req 299
+time 6428
+generate req 300
+time 6442
+generate req 301
+time 6457
+generate req 302
+time 6471
+generate req 303
+time 6485
+generate req 304
+k 5
+time 6516
+generate req 305
+time 6533
+generate req 306
+time 6550
+generate req 307
+time 6566
+generate req 308
+time 6583
+generate req 309
+k 8
+time 6611
+generate req 310
+time 6622
+generate req 311
+time 6633
+generate req 312
+time 6644
+generate req 313
+time 6655
+generate req 314
+time 6666
+generate req 315
+time 6677
+generate req 316
+time 6688
+generate req 317
+k 3
+time 6725
+generate req 318
+time 6750
+generate req 319
+time 6775
+generate req 320
+k 4
+time 6820
+generate req 321
+time 6840
+generate req 322
+time 6860
+generate req 323
+time 6880
+generate req 324
+k 6
+time 6914
+generate req 325
+time 6928
+generate req 326
+time 6942
+generate req 327
+time 6957
+generate req 328
+time 6971
+generate req 329
+time 6985
+generate req 330
+k 4
+time 7020
+generate req 331
+time 7040
+generate req 332
+time 7060
+generate req 333
+time 7080
+generate req 334
+k 5
+time 7116
+generate req 335
+time 7133
+generate req 336
+time 7150
+generate req 337
+time 7166
+generate req 338
+time 7183
+generate req 339
+k 7
+time 7212
+generate req 340
+time 7225
+generate req 341
+time 7237
+generate req 342
+time 7250
+generate req 343
+time 7262
+generate req 344
+time 7275
+generate req 345
+time 7287
+generate req 346
+k 5
+time 7316
+generate req 347
+time 7333
+generate req 348
+time 7350
+generate req 349
+time 7366
+generate req 350
+time 7383
+generate req 351
+k 4
+time 7420
+generate req 352
+time 7440
+generate req 353
+time 7460
+generate req 354
+time 7480
+generate req 355
+k 4
+time 7520
+generate req 356
+time 7540
+generate req 357
+time 7560
+generate req 358
+time 7580
+generate req 359
+k 7
+time 7612
+generate req 360
+time 7625
+generate req 361
+time 7637
+generate req 362
+time 7650
+generate req 363
+time 7662
+generate req 364
+time 7675
+generate req 365
+time 7687
+generate req 366
+k 4
+time 7720
+generate req 367
+time 7740
+generate req 368
+time 7760
+generate req 369
+time 7780
+generate req 370
+k 2
+time 7833
+generate req 371
+time 7866
+generate req 372
+k 6
+time 7914
+generate req 373
+time 7928
+generate req 374
+time 7942
+generate req 375
+time 7957
+generate req 376
+time 7971
+generate req 377
+time 7985
+generate req 378
+k 5
+time 8016
+generate req 379
+time 8033
+generate req 380
+time 8050
+generate req 381
+time 8066
+generate req 382
+time 8083
+generate req 383
+k 1
+time 8150
+generate req 384
+k 5
+time 8216
+generate req 385
+time 8233
+generate req 386
+time 8250
+generate req 387
+time 8266
+generate req 388
+time 8283
+generate req 389
+k 3
+time 8325
+generate req 390
+time 8350
+generate req 391
+time 8375
+generate req 392
+k 1
+time 8450
+generate req 393
+k 6
+time 8514
+generate req 394
+time 8528
+generate req 395
+time 8542
+generate req 396
+time 8557
+generate req 397
+time 8571
+generate req 398
+time 8585
+generate req 399
+k 7
+time 8612
+generate req 400
+time 8625
+generate req 401
+time 8637
+generate req 402
+time 8650
+generate req 403
+time 8662
+generate req 404
+time 8675
+generate req 405
+time 8687
+generate req 406
+k 6
+time 8714
+generate req 407
+time 8728
+generate req 408
+time 8742
+generate req 409
+time 8757
+generate req 410
+time 8771
+generate req 411
+time 8785
+generate req 412
+k 8
+time 8811
+generate req 413
+time 8822
+generate req 414
+time 8833
+generate req 415
+time 8844
+generate req 416
+time 8855
+generate req 417
+time 8866
+generate req 418
+time 8877
+generate req 419
+time 8888
+generate req 420
+k 6
+time 8914
+generate req 421
+time 8928
+generate req 422
+time 8942
+generate req 423
+time 8957
+generate req 424
+time 8971
+generate req 425
+time 8985
+generate req 426
+k 8
+time 9011
+generate req 427
+time 9022
+generate req 428
+time 9033
+generate req 429
+time 9044
+generate req 430
+time 9055
+generate req 431
+time 9066
+generate req 432
+time 9077
+generate req 433
+time 9088
+generate req 434
+k 6
+time 9114
+generate req 435
+time 9128
+generate req 436
+time 9142
+generate req 437
+time 9157
+generate req 438
+time 9171
+generate req 439
+time 9185
+generate req 440
+k 6
+time 9214
+generate req 441
+time 9228
+generate req 442
+time 9242
+generate req 443
+time 9257
+generate req 444
+time 9271
+generate req 445
+time 9285
+generate req 446
+k 2
+time 9333
+generate req 447
+time 9366
+generate req 448
+k 5
+time 9416
+generate req 449
+time 9433
+generate req 450
+time 9450
+generate req 451
+time 9466
+generate req 452
+time 9483
+generate req 453
+k 4
+time 9520
+generate req 454
+time 9540
+generate req 455
+time 9560
+generate req 456
+time 9580
+generate req 457
+k 7
+time 9612
+generate req 458
+time 9625
+generate req 459
+time 9637
+generate req 460
+time 9650
+generate req 461
+time 9662
+generate req 462
+time 9675
+generate req 463
+time 9687
+generate req 464
+k 4
+time 9720
+generate req 465
+time 9740
+generate req 466
+time 9760
+generate req 467
+time 9780
+generate req 468
+k 7
+time 9812
+generate req 469
+time 9825
+generate req 470
+time 9837
+generate req 471
+time 9850
+generate req 472
+time 9862
+generate req 473
+time 9875
+generate req 474
+time 9887
+generate req 475
+k 10
+time 9909
+generate req 476
+time 9918
+generate req 477
+time 9927
+generate req 478
+time 9936
+generate req 479
+time 9945
+generate req 480
+time 9954
+generate req 481
+time 9963
+generate req 482
+time 9972
+generate req 483
+time 9981
+generate req 484
+time 9990
+generate req 485
+k 5
+time 10016
+generate req 486
+time 10033
+generate req 487
+time 10050
+generate req 488
+time 10066
+generate req 489
+time 10083
+generate req 490
+k 7
+time 10112
+generate req 491
+time 10125
+generate req 492
+time 10137
+generate req 493
+time 10150
+generate req 494
+time 10162
+generate req 495
+time 10175
+generate req 496
+time 10187
+generate req 497
+k 3
+time 10225
+generate req 498
+time 10250
+generate req 499
+time 10275
+generate req 500
+k 8
+time 10311
+generate req 501
+time 10322
+generate req 502
+time 10333
+generate req 503
+time 10344
+generate req 504
+time 10355
+generate req 505
+time 10366
+generate req 506
+time 10377
+generate req 507
+time 10388
+generate req 508
+k 3
+time 10425
+generate req 509
+time 10450
+generate req 510
+time 10475
+generate req 511
+k 3
+time 10525
+generate req 512
+time 10550
+generate req 513
+time 10575
+generate req 514
+k 7
+time 10612
+generate req 515
+time 10625
+generate req 516
+time 10637
+generate req 517
+time 10650
+generate req 518
+time 10662
+generate req 519
+time 10675
+generate req 520
+time 10687
+generate req 521
+k 5
+time 10716
+generate req 522
+time 10733
+generate req 523
+time 10750
+generate req 524
+time 10766
+generate req 525
+time 10783
+generate req 526
+k 3
+time 10825
+generate req 527
+time 10850
+generate req 528
+time 10875
+generate req 529
+k 7
+time 10912
+generate req 530
+time 10925
+generate req 531
+time 10937
+generate req 532
+time 10950
+generate req 533
+time 10962
+generate req 534
+time 10975
+generate req 535
+time 10987
+generate req 536
+k 8
+time 11011
+generate req 537
+time 11022
+generate req 538
+time 11033
+generate req 539
+time 11044
+generate req 540
+time 11055
+generate req 541
+time 11066
+generate req 542
+time 11077
+generate req 543
+time 11088
+generate req 544
+k 4
+time 11120
+generate req 545
+time 11140
+generate req 546
+time 11160
+generate req 547
+time 11180
+generate req 548
+k 5
+time 11216
+generate req 549
+time 11233
+generate req 550
+time 11250
+generate req 551
+time 11266
+generate req 552
+time 11283
+generate req 553
+k 8
+time 11311
+generate req 554
+time 11322
+generate req 555
+time 11333
+generate req 556
+time 11344
+generate req 557
+time 11355
+generate req 558
+time 11366
+generate req 559
+time 11377
+generate req 560
+time 11388
+generate req 561
+k 3
+time 11425
+generate req 562
+time 11450
+generate req 563
+time 11475
+generate req 564
+k 7
+time 11512
+generate req 565
+time 11525
+generate req 566
+time 11537
+generate req 567
+time 11550
+generate req 568
+time 11562
+generate req 569
+time 11575
+generate req 570
+time 11587
+generate req 571
+k 6
+time 11614
+generate req 572
+time 11628
+generate req 573
+time 11642
+generate req 574
+time 11657
+generate req 575
+time 11671
+generate req 576
+time 11685
+generate req 577
+k 6
+time 11714
+generate req 578
+time 11728
+generate req 579
+time 11742
+generate req 580
+time 11757
+generate req 581
+time 11771
+generate req 582
+time 11785
+generate req 583
+k 1
+time 11850
+generate req 584
+k 4
+time 11920
+generate req 585
+time 11940
+generate req 586
+time 11960
+generate req 587
+time 11980
+generate req 588
+k 2
+time 12033
+generate req 589
+time 12066
+generate req 590
+k 4
+time 12120
+generate req 591
+time 12140
+generate req 592
+time 12160
+generate req 593
+time 12180
+generate req 594
+k 6
+time 12214
+generate req 595
+time 12228
+generate req 596
+time 12242
+generate req 597
+time 12257
+generate req 598
+time 12271
+generate req 599
+time 12285
+generate req 600
+k 7
+time 12312
+generate req 601
+time 12325
+generate req 602
+time 12337
+generate req 603
+time 12350
+generate req 604
+time 12362
+generate req 605
+time 12375
+generate req 606
+time 12387
+generate req 607
+k 6
+time 12414
+generate req 608
+time 12428
+generate req 609
+time 12442
+generate req 610
+time 12457
+generate req 611
+time 12471
+generate req 612
+time 12485
+generate req 613
+k 3
+time 12525
+generate req 614
+time 12550
+generate req 615
+time 12575
+generate req 616
+k 8
+time 12611
+generate req 617
+time 12622
+generate req 618
+time 12633
+generate req 619
+time 12644
+generate req 620
+time 12655
+generate req 621
+time 12666
+generate req 622
+time 12677
+generate req 623
+time 12688
+generate req 624
+k 6
+time 12714
+generate req 625
+time 12728
+generate req 626
+time 12742
+generate req 627
+time 12757
+generate req 628
+time 12771
+generate req 629
+time 12785
+generate req 630
+k 3
+time 12825
+generate req 631
+time 12850
+generate req 632
+time 12875
+generate req 633
+k 2
+time 12933
+generate req 634
+time 12966
+generate req 635
+k 4
+time 13020
+generate req 636
+time 13040
+generate req 637
+time 13060
+generate req 638
+time 13080
+generate req 639
+k 4
+time 13120
+generate req 640
+time 13140
+generate req 641
+time 13160
+generate req 642
+time 13180
+generate req 643
+k 3
+time 13225
+generate req 644
+time 13250
+generate req 645
+time 13275
+generate req 646
+k 5
+time 13316
+generate req 647
+time 13333
+generate req 648
+time 13350
+generate req 649
+time 13366
+generate req 650
+time 13383
+generate req 651
+k 6
+time 13414
+generate req 652
+time 13428
+generate req 653
+time 13442
+generate req 654
+time 13457
+generate req 655
+time 13471
+generate req 656
+time 13485
+generate req 657
+k 7
+time 13512
+generate req 658
+time 13525
+generate req 659
+time 13537
+generate req 660
+time 13550
+generate req 661
+time 13562
+generate req 662
+time 13575
+generate req 663
+time 13587
+generate req 664
+k 1
+time 13650
+generate req 665
+k 4
+time 13720
+generate req 666
+time 13740
+generate req 667
+time 13760
+generate req 668
+time 13780
+generate req 669
+k 4
+time 13820
+generate req 670
+time 13840
+generate req 671
+time 13860
+generate req 672
+time 13880
+generate req 673
+k 10
+time 13909
+generate req 674
+time 13918
+generate req 675
+time 13927
+generate req 676
+time 13936
+generate req 677
+time 13945
+generate req 678
+time 13954
+generate req 679
+time 13963
+generate req 680
+time 13972
+generate req 681
+time 13981
+generate req 682
+time 13990
+generate req 683
+k 7
+time 14012
+generate req 684
+time 14025
+generate req 685
+time 14037
+generate req 686
+time 14050
+generate req 687
+time 14062
+generate req 688
+time 14075
+generate req 689
+time 14087
+generate req 690
+k 6
+time 14114
+generate req 691
+time 14128
+generate req 692
+time 14142
+generate req 693
+time 14157
+generate req 694
+time 14171
+generate req 695
+time 14185
+generate req 696
+k 3
+time 14225
+generate req 697
+time 14250
+generate req 698
+time 14275
+generate req 699
+k 5
+time 14316
+generate req 700
+time 14333
+generate req 701
+time 14350
+generate req 702
+time 14366
+generate req 703
+time 14383
+generate req 704
+k 6
+time 14414
+generate req 705
+time 14428
+generate req 706
+time 14442
+generate req 707
+time 14457
+generate req 708
+time 14471
+generate req 709
+time 14485
+generate req 710
+k 9
+time 14510
+generate req 711
+time 14520
+generate req 712
+time 14530
+generate req 713
+time 14540
+generate req 714
+time 14550
+generate req 715
+time 14560
+generate req 716
+time 14570
+generate req 717
+time 14580
+generate req 718
+time 14590
+generate req 719
+k 4
+time 14620
+generate req 720
+time 14640
+generate req 721
+time 14660
+generate req 722
+time 14680
+generate req 723
+k 5
+time 14716
+generate req 724
+time 14733
+generate req 725
+time 14750
+generate req 726
+time 14766
+generate req 727
+time 14783
+generate req 728
+k 7
+time 14812
+generate req 729
+time 14825
+generate req 730
+time 14837
+generate req 731
+time 14850
+generate req 732
+time 14862
+generate req 733
+time 14875
+generate req 734
+time 14887
+generate req 735
+k 1
+time 14950
+generate req 736
+k 5
+time 15016
+generate req 737
+time 15033
+generate req 738
+time 15050
+generate req 739
+time 15066
+generate req 740
+time 15083
+generate req 741
+k 6
+time 15114
+generate req 742
+time 15128
+generate req 743
+time 15142
+generate req 744
+time 15157
+generate req 745
+time 15171
+generate req 746
+time 15185
+generate req 747
+k 3
+time 15225
+generate req 748
+time 15250
+generate req 749
+time 15275
+generate req 750
+k 7
+time 15312
+generate req 751
+time 15325
+generate req 752
+time 15337
+generate req 753
+time 15350
+generate req 754
+time 15362
+generate req 755
+time 15375
+generate req 756
+time 15387
+generate req 757
+k 6
+time 15414
+generate req 758
+time 15428
+generate req 759
+time 15442
+generate req 760
+time 15457
+generate req 761
+time 15471
+generate req 762
+time 15485
+generate req 763
+k 5
+time 15516
+generate req 764
+time 15533
+generate req 765
+time 15550
+generate req 766
+time 15566
+generate req 767
+time 15583
+generate req 768
+k 6
+time 15614
+generate req 769
+time 15628
+generate req 770
+time 15642
+generate req 771
+time 15657
+generate req 772
+time 15671
+generate req 773
+time 15685
+generate req 774
+k 4
+time 15720
+generate req 775
+time 15740
+generate req 776
+time 15760
+generate req 777
+time 15780
+generate req 778
+k 10
+time 15809
+generate req 779
+time 15818
+generate req 780
+time 15827
+generate req 781
+time 15836
+generate req 782
+time 15845
+generate req 783
+time 15854
+generate req 784
+time 15863
+generate req 785
+time 15872
+generate req 786
+time 15881
+generate req 787
+time 15890
+generate req 788
+k 4
+time 15920
+generate req 789
+time 15940
+generate req 790
+time 15960
+generate req 791
+time 15980
+generate req 792
+k 2
+time 16033
+generate req 793
+time 16066
+generate req 794
+k 10
+time 16109
+generate req 795
+time 16118
+generate req 796
+time 16127
+generate req 797
+time 16136
+generate req 798
+time 16145
+generate req 799
+time 16154
+generate req 800
+time 16163
+generate req 801
+time 16172
+generate req 802
+time 16181
+generate req 803
+time 16190
+generate req 804
+k 1
+time 16250
+generate req 805
+k 4
+time 16320
+generate req 806
+time 16340
+generate req 807
+time 16360
+generate req 808
+time 16380
+generate req 809
+k 5
+time 16416
+generate req 810
+time 16433
+generate req 811
+time 16450
+generate req 812
+time 16466
+generate req 813
+time 16483
+generate req 814
+k 6
+time 16514
+generate req 815
+time 16528
+generate req 816
+time 16542
+generate req 817
+time 16557
+generate req 818
+time 16571
+generate req 819
+time 16585
+generate req 820
+k 5
+time 16616
+generate req 821
+time 16633
+generate req 822
+time 16650
+generate req 823
+time 16666
+generate req 824
+time 16683
+generate req 825
+k 5
+time 16716
+generate req 826
+time 16733
+generate req 827
+time 16750
+generate req 828
+time 16766
+generate req 829
+time 16783
+generate req 830
+k 6
+time 16814
+generate req 831
+time 16828
+generate req 832
+time 16842
+generate req 833
+time 16857
+generate req 834
+time 16871
+generate req 835
+time 16885
+generate req 836
+k 7
+time 16912
+generate req 837
+time 16925
+generate req 838
+time 16937
+generate req 839
+time 16950
+generate req 840
+time 16962
+generate req 841
+time 16975
+generate req 842
+time 16987
+generate req 843
+k 3
+time 17025
+generate req 844
+time 17050
+generate req 845
+time 17075
+generate req 846
+k 3
+time 17125
+generate req 847
+time 17150
+generate req 848
+time 17175
+generate req 849
+k 9
+time 17210
+generate req 850
+time 17220
+generate req 851
+time 17230
+generate req 852
+time 17240
+generate req 853
+time 17250
+generate req 854
+time 17260
+generate req 855
+time 17270
+generate req 856
+time 17280
+generate req 857
+time 17290
+generate req 858
+k 8
+time 17311
+generate req 859
+time 17322
+generate req 860
+time 17333
+generate req 861
+time 17344
+generate req 862
+time 17355
+generate req 863
+time 17366
+generate req 864
+time 17377
+generate req 865
+time 17388
+generate req 866
+k 1
+time 17450
+generate req 867
+k 3
+time 17525
+generate req 868
+time 17550
+generate req 869
+time 17575
+generate req 870
+k 2
+time 17633
+generate req 871
+time 17666
+generate req 872
+k 5
+time 17716
+generate req 873
+time 17733
+generate req 874
+time 17750
+generate req 875
+time 17766
+generate req 876
+time 17783
+generate req 877
+k 3
+time 17825
+generate req 878
+time 17850
+generate req 879
+time 17875
+generate req 880
+k 6
+time 17914
+generate req 881
+time 17928
+generate req 882
+time 17942
+generate req 883
+time 17957
+generate req 884
+time 17971
+generate req 885
+time 17985
+generate req 886
+k 6
+time 18014
+generate req 887
+time 18028
+generate req 888
+time 18042
+generate req 889
+time 18057
+generate req 890
+time 18071
+generate req 891
+time 18085
+generate req 892
+k 7
+time 18112
+generate req 893
+time 18125
+generate req 894
+time 18137
+generate req 895
+time 18150
+generate req 896
+time 18162
+generate req 897
+time 18175
+generate req 898
+time 18187
+generate req 899
+k 6
+time 18214
+generate req 900
+time 18228
+generate req 901
+time 18242
+generate req 902
+time 18257
+generate req 903
+time 18271
+generate req 904
+time 18285
+generate req 905
+k 3
+time 18325
+generate req 906
+time 18350
+generate req 907
+time 18375
+generate req 908
+k 4
+time 18420
+generate req 909
+time 18440
+generate req 910
+time 18460
+generate req 911
+time 18480
+generate req 912
+k 5
+time 18516
+generate req 913
+time 18533
+generate req 914
+time 18550
+generate req 915
+time 18566
+generate req 916
+time 18583
+generate req 917
+k 1
+time 18650
+generate req 918
+k 9
+time 18710
+generate req 919
+time 18720
+generate req 920
+time 18730
+generate req 921
+time 18740
+generate req 922
+time 18750
+generate req 923
+time 18760
+generate req 924
+time 18770
+generate req 925
+time 18780
+generate req 926
+time 18790
+generate req 927
+k 3
+time 18825
+generate req 928
+time 18850
+generate req 929
+time 18875
+generate req 930
+k 3
+time 18925
+generate req 931
+time 18950
+generate req 932
+time 18975
+generate req 933
+k 7
+time 19012
+generate req 934
+time 19025
+generate req 935
+time 19037
+generate req 936
+time 19050
+generate req 937
+time 19062
+generate req 938
+time 19075
+generate req 939
+time 19087
+generate req 940
+k 5
+time 19116
+generate req 941
+time 19133
+generate req 942
+time 19150
+generate req 943
+time 19166
+generate req 944
+time 19183
+generate req 945
+k 7
+time 19212
+generate req 946
+time 19225
+generate req 947
+time 19237
+generate req 948
+time 19250
+generate req 949
+time 19262
+generate req 950
+time 19275
+generate req 951
+time 19287
+generate req 952
+k 7
+time 19312
+generate req 953
+time 19325
+generate req 954
+time 19337
+generate req 955
+time 19350
+generate req 956
+time 19362
+generate req 957
+time 19375
+generate req 958
+time 19387
+generate req 959
+k 7
+time 19412
+generate req 960
+time 19425
+generate req 961
+time 19437
+generate req 962
+time 19450
+generate req 963
+time 19462
+generate req 964
+time 19475
+generate req 965
+time 19487
+generate req 966
+k 1
+time 19550
+generate req 967
+k 3
+time 19625
+generate req 968
+time 19650
+generate req 969
+time 19675
+generate req 970
+k 5
+time 19716
+generate req 971
+time 19733
+generate req 972
+time 19750
+generate req 973
+time 19766
+generate req 974
+time 19783
+generate req 975
+k 4
+time 19820
+generate req 976
+time 19840
+generate req 977
+time 19860
+generate req 978
+time 19880
+generate req 979
+k 7
+time 19912
+generate req 980
+time 19925
+generate req 981
+time 19937
+generate req 982
+time 19950
+generate req 983
+time 19962
+generate req 984
+time 19975
+generate req 985
+time 19987
+generate req 986
+k 7
+time 20012
+generate req 987
+time 20025
+generate req 988
+time 20037
+generate req 989
+time 20050
+generate req 990
+time 20062
+generate req 991
+time 20075
+generate req 992
+time 20087
+generate req 993
+k 7
+time 20112
+generate req 994
+time 20125
+generate req 995
+time 20137
+generate req 996
+time 20150
+generate req 997
+time 20162
+generate req 998
+time 20175
+generate req 999
+time 20187

@@ -1,0 +1,7 @@
+begin
+  pct_q 0.1
+  pct_actives 0.4
+  pct_paths 0.5
+  output_freq 10
+  listvar yes
+end

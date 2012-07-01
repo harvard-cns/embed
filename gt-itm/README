@@ -1,0 +1,110 @@
+
+	    	GT Internetwork Topology Models (GT-ITM)
+
+	    	   Ken Calvert and Ellen Zegura	   
+                       College of Computing
+	                   Georgia Tech
+
+Copyright 1996 by Georgia Institute of Technology.
+
+$Id: README,v 1.1 1996/10/04 13:27:52 ewz Exp $
+
+This distribution contains code to generate graphs that model
+the topological structure of internetworks.  In addition, some 
+sample graphs are provided.  More detail on most of the methods 
+can be found in the paper:
+
+"How to Model an Internetwork," Ellen Zegura, Ken Calvert
+and Samrat Bhattacharjee, Proceedings of IEEE Infocom '96.
+
+The files model.ps and metric.ps in the docs directory also
+contain brief information on the models and evaluation metrics.
+
+The distribution has been compiled for SunOS 4.x.  If you are
+running Solaris, you will need to edit the Makefile (see comments in
+Makefile for directions), then execute the command 'make veryclean'
+followed by 'make all'.
+
+This distribution consists of the following files:
+
+0. README 	This file
+
+1. Documentation (docs)
+   README-SGB	   Overview of Stanford GraphBase
+   itm-doc.txt     Instructions on use of itm (graph generation driver)
+   edriver-doc.txt Instructions on use of edriver (graph evaluation driver)
+   sgb2alt-doc.txt Instructions on use of sgb2alt (converts graph format)
+   metrics.ps      Description of evaluation metrics
+   models.ps       Description of graph models
+
+2. Source files (src)
+   Makefile	Makefile (** must be edited to compile under Solaris **)
+
+A. Graph generation
+   itm.c	Driver to create graphs
+   geog.c	Routines to construct various flat random graphs
+		and N-level recursive hierarchical graphs
+   ts.c		Routines to construct transit-stub graphs
+   dfs.c	Depth first search and connectivity test
+   sgb2alt.c	Routine to convert from sgb to alternate format
+
+B. Graph evaluation
+   edriver.c	Driver to evaluate graph properties
+   eval.c	Evaluation routines
+
+3. Include files (include)
+   geog.h	Header file for graph generation
+   eval.h	Header file for graph evaluation
+   gb_graph.h	SGB header for graph data structures
+   gb_flip.h	SGB header for system-independent random number gen
+   gb_dijk.h	SGB header for shortest path routine
+   gb_save.h	SGB header for routines to save and restore graphs
+
+4. Libraries (lib)
+
+   libgb4.a	Library of SGB executables for SunOS 4.x
+   libgb5.a	Library of SGB executables for Solaris (SunOS 5.x)
+
+5. Executable files (bin)
+   itm		Graph creation executable
+   sgb2alt	Format conversion executable
+   edriver	Evaluation executable
+
+6. Sample graphs (sample-graphs)
+
+A. Random (rand)
+i. 10 node graphs (r10)
+   r10			Parameter file for 10 node graphs
+   r10-[0-2].gb		Random graphs of 10 nodes (SGB format)
+   Runconvert		Shell script to run conversion routine
+   r10-[0-2].alt	Random graphs of 10 nodes (alt format)
+   Runeval		Shell script to run evaluation routines
+   r10-[0-2]-ev         Evaluation results for 10 node graphs
+
+ii. 100 node graphs (r100)
+   r100			Parameter file for 100 node graphs
+   r100-[0-9].gb	Random graphs of 100 nodes (SGB format)
+   Runconvert		Shell script to run conversion routine
+   r100-[0-9].alt	Random graphs of 100 nodes (alt format)
+   Runeval		Shell script to run evaluation routines
+   r100-[0-9]-ev	Evaluation results for 100 node graphs
+
+B. Transit-stub (ts)
+i. 100 node graphs (ts100)
+   ts100		Parameter file for 100 node graphs
+   ts100-[0-9].gb	TS graphs of 100 nodes (SGB format)
+   Runconvert		Shell script to run conversion routine
+   ts100-[0-9].alt	TS graphs of 100 nodes (alternate format)
+   Runeval		Shell script to run evaluation routines
+   ts100-[0-9]-ev	Evaluation results for 100 node graphs
+
+ii. 600 node graphs (ts600)
+   ts600		Parameter file for 600 node graphs
+   ts600-[0-9].gb	TS graphs of 600 nodes (SGB format)
+   Runconvert		Shell script to run conversion routine
+   ts600-[0-9].alt	TS graphs of 600 nodes (alternate format)
+   Runeval		Shell script to run evaluation routines
+   ts600-[0-9]-ev	Evaluation results for 600 node graphs
+
+
+

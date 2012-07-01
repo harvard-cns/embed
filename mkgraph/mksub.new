@@ -1,0 +1,46 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <math.h>
+
+#include "../def.h"
+
+#define LEN_CMD 100
+
+#define RAND_MAX 2147483647
+
+int main(int argc, char **argv) {
+  //int n = atoi(argv[1]);
+  FILE * fp;
+  FILE * reqfile;
+  char filename[LEN_FILENAME], reqfilename[LEN_FILENAME];
+  //char cmd[LEN_CMD];
+  //int i, k = 0, countk = 0, p = 0, start;
+  
+  int num_nodes, num_edges, from, to;
+   
+  //char str[1000];
+  int j;
+    sprintf(filename, "sub.tmp");
+    fp = fopen(filename, "r");
+    sprintf(reqfilename, "../sub.txt");
+    reqfile = fopen(reqfilename, "w");
+
+    fscanf(fp, "%d %d", &num_nodes, &num_edges);
+
+    fprintf(reqfile, "%d %d\n", num_nodes, num_edges);
+
+    for (j = 0; j < num_nodes; j ++) {
+      fprintf(reqfile, "%lf\n", (rand()/(double)RAND_MAX +1)*(double)MAX_CPU*0.5);      
+    }
+
+    for (j = 0; j < num_edges; j ++) {
+      fscanf(fp, "%d %d", &from, &to);
+      fprintf(reqfile, "%d %d %lf\n", from, to, (rand()/(double)RAND_MAX +1) * (double)MAX_BW * 0.5); 
+    }
+
+    fclose(fp);
+    fclose(reqfile);
+  
+  return 0;
+}
